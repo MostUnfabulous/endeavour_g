@@ -3253,12 +3253,16 @@
 			background-color: #261c3e;
 		}
 
-		.wrapper.style1 {
+		.wrapper.style0 {
 			background-color: rgba(94, 66, 166,0.5)
 		}
 
+		.wrapper.style1 {
+			background-color: rgba(94, 66, 166,1)
+		}
+
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: rgba(94, 66, 166,1)
 		}
 
 		.wrapper.style2 {
@@ -3515,7 +3519,7 @@
 		}
 
 	#footer > .inner a {
-		border-bottom-color: rgba(255, 255, 255, 0.15);
+		border-bottom-color: rgba(255, 255, 255, 1);
 	}
 
 		#footer > .inner a:hover {
