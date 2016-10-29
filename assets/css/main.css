@@ -1701,7 +1701,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
-		font-weight: 100;
+		font-weight: 300;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
 	}
@@ -3885,7 +3885,7 @@
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("images/intro.svg");
+		background-image: url("images/bg.jpg	");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
