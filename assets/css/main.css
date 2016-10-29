@@ -3888,7 +3888,7 @@
 		background-image: url("images/dragonshc.jpg	");
 		background-position: top right;
 		background-repeat: no-repeat;
-		background-size: 100% 100%;
+		background-size:cover;
 	}
 
 		#intro p {
