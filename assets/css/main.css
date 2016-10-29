@@ -1,4 +1,5 @@
 @import url(font-awesome.min.css);
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i');
 
 /*
 	Hyperspace by HTML5 UP
@@ -1640,7 +1641,7 @@
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.55);
-		font-family: Arial, Helvetica, sans-serif;
+	  font-family: 'Roboto', sans-serif;
 		font-size: 16.5pt;
 		font-weight: normal;
 		line-height: 1.75;
@@ -1700,7 +1701,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
-		font-weight: bold;
+		font-weight: 100;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
 	}
@@ -1711,7 +1712,7 @@
 		}
 
 	h1 {
-		font-size: 2.75em;
+		font-size: 3.75em;
 	}
 
 		h1.major {
@@ -1817,7 +1818,7 @@
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", monospace;
+		font-family: 'Roboto', sans-serif;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
