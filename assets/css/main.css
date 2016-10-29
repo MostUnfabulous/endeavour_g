@@ -1896,17 +1896,16 @@
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-size: 0.6em;
-		font-weight: bold;
-		height: calc(4.75em + 2px);
-		letter-spacing: 0.25em;
-		line-height: 4.75em;
+		font-size: 1.0em;
+		font-weight: 100;
+		height: calc(2.75em + 2px);
+		letter-spacing: 0.15em;
+		line-height: 2.75em;
 		outline: 0;
-		padding: 0 3.75em;
+		padding: 0 1.75em;
 		position: relative;
 		text-align: center;
 		text-decoration: none;
-		text-transform: uppercase;
 		white-space: nowrap;
 	}
 
@@ -3755,15 +3754,15 @@
 			border: 0;
 			color: rgba(255, 255, 255, 0.35);
 			display: block;
-			font-size: 0.6em;
-			font-weight: bold;
-			letter-spacing: 0.25em;
+			font-size: 1em;
+			font-weight: 100;
+			letter-spacing: 0.15em;
 			line-height: 1.75;
 			outline: 0;
-			padding: 1.35em 0;
+			padding: 1.0em 0;
 			position: relative;
 			text-decoration: none;
-			text-transform: uppercase;
+
 		}
 
 			#sidebar nav a:before, #sidebar nav a:after {
