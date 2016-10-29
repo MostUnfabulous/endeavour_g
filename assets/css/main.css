@@ -1701,7 +1701,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
-		font-weight: 300;
+		font-weight: 100;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
 	}
@@ -1712,7 +1712,8 @@
 		}
 
 	h1 {
-		font-size: 3.75em;
+		font-size: 4em;
+		text-shadow: 2px 2px 5px #7c7c7c;
 	}
 
 		h1.major {
@@ -3519,7 +3520,7 @@
 		}
 
 	#footer > .inner a {
-		border-bottom-color: rgba(255, 255, 255, 1);
+		border-bottom-color: rgba(255, 255, 255, 0.15);
 	}
 
 		#footer > .inner a:hover {
