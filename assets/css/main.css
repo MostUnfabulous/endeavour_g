@@ -3254,7 +3254,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: rgba(94, 66, 166,0.5)
 		}
 
 		.wrapper.style1-alt {
@@ -3884,12 +3884,12 @@
 /* Intro */
 
 	#intro {
-		background-attachment: fixed;
-		background-image: url("images/dragonshc.jpg	");
+	/*	background-attachment: fixed;
+		background-image:  url(intro.svg), url(images/dragonshc.jpg);
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size:cover;
-	}
+	} */
 
 		#intro p {
 			font-size: 1.25em;
