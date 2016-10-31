@@ -165,7 +165,7 @@
 							<p>Application form still under development </p>
 
 								<section>
-									<form method="post" action="applicationpost.php">
+									<form method="post" name="application" action="applicationpost.php">
 										<div class="field half first">
 											<label for="name">Character Name</label>
 											<input type="text" name="name" id="name" />
@@ -222,6 +222,10 @@
 			<script type="text/javascript" charset="utf-8" src="assets/js/index.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
+			<script language="JavaScript">
+			var frmvalidator  = new Validator("application");
+			frmvalidator.addValidation("email","req","Please provide your email");
+			</script>
 
 	</body>
 </html>

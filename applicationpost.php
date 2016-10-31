@@ -12,11 +12,6 @@ $link = $_POST['exp'];
 $link = $_POST['other'];
 
 //Validate first
-if(empty($name)||empty($visitor_email))
-{
-    echo "Name and email are mandatory!";
-    exit;
-}
 
 if(IsInjected($visitor_email))
 {
@@ -24,7 +19,7 @@ if(IsInjected($visitor_email))
     exit;
 }
 $to = "haydenbsmith@gmail.com";//<== update the email address
-$email_from = 'contact@endeavour.ml';//<== update the email address
+$email_from = 'Endeavour';//<== update the email address
 $email_subject = "$name Guild Application";
 $email_body = "New Guild application! .\n".
 							"Applicant Name: $name .\n".
