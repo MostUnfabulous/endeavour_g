@@ -23,18 +23,18 @@ if(IsInjected($visitor_email))
     echo "Bad email value!";
     exit;
 }
-
+$to = "haydenbsmith@gmail.com";//<== update the email address
 $email_from = 'contact@endeavour.ml';//<== update the email address
 $email_subject = "$name Guild Application";
-$email_body = "New Guild application! /n
-							Applicant Name: $name /n
-							Applicant Email: $visitor_email /n
-							Applicant Armory Link: $link /n
-							Q1. Why does the applicant want to join?: $join /n
-							Q2. What experiece does the applicant have? $experience /n
-							Q3. Other information about applicant: $other /n"
+$email_body = "New Guild application! .\n".
+							"Applicant Name: $name .\n".
+							"Applicant Email: $visitor_email .\n".
+							"Applicant Armory Link: $link .\n".
+							"Q1. Why does the applicant want to join?: $join.\n".
+							"Q2. What experiece does the applicant have? $experience.\n".
+							"Q3. Other information about applicant: $other.\n".
 
-$to = "haydenbsmith@gmail.com";//<== update the email address
+
 
 //Send the email!
 mail($to,$email_subject,$email_body);
