@@ -6,6 +6,7 @@ if(empty($name)||empty($visitor_email))
 	echo '<script type="text/javascript">';
 echo 'alert("Please Fill in all sections");';
 echo '</script>';
+header('Location: index.html');
     exit;
 }
 $name = $_POST['name'];
