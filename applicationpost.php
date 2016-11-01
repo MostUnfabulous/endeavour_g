@@ -9,7 +9,7 @@ if(empty($name)||empty($visitor_email))
 {
     echo "Name and email are mandatory!";
     exit;
-} 
+}
 $name = $_POST['name'];
 $visitor_email = $_POST['email'];
 $link = $_POST['link'];
@@ -23,7 +23,7 @@ $link = $_POST['other'];
 
 if(IsInjected($visitor_email))
 {
-    echo "Bad email value!";
+    echo =alert("I am an alert box!");
     exit;
 }
 $to = "haydenbsmith@gmail.com";//<== update the email address
