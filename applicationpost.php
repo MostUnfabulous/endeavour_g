@@ -4,6 +4,12 @@ if(!isset($_POST['submit']))
 	//This page should not be accessed directly. Need to submit the form.
 	echo "error; you need to submit the form!";
 }
+
+if(empty($name)||empty($visitor_email))
+{
+    echo "Name and email are mandatory!";
+    exit;
+} 
 $name = $_POST['name'];
 $visitor_email = $_POST['email'];
 $link = $_POST['link'];
@@ -13,13 +19,15 @@ $link = $_POST['other'];
 
 //Validate first
 
+
+
 if(IsInjected($visitor_email))
 {
     echo "Bad email value!";
     exit;
 }
 $to = "haydenbsmith@gmail.com";//<== update the email address
-$email_from = 'Endeavour';//<== update the email address
+$email_from = 'contact@endeavour.ml';//<== update the email address
 $email_subject = "$name Guild Application";
 $email_body = "New Guild application! .\n".
 							"Applicant Name: $name .\n".
