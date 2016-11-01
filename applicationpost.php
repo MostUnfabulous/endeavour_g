@@ -7,7 +7,9 @@ if(!isset($_POST['submit']))
 
 if(empty($name)||empty($visitor_email))
 {
-    echo "alert("I am an alert box!")";
+	echo '<script type="text/javascript">';
+echo 'alert("Please Fill in all sections");';
+echo '</script>';
     exit;
 }
 $name = $_POST['name'];
