@@ -6,7 +6,6 @@ if(empty($name)||empty($visitor_email))
 	echo '<script type="text/javascript">';
 echo 'alert("Please Fill in all sections");';
 echo '</script>';
-header('Location: index.html');
     exit;
 }
 $name = $_POST['name'];
@@ -38,7 +37,7 @@ $email_body = "New Guild application! .\n".
 //Send the email!
 mail($to,$email_subject,$email_body);
 //done. redirect to thank-you page.
-header('Location: roster.html');
+header('Location: index.html');
 
 
 // Function to validate against any email injection attempts
