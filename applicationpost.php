@@ -23,7 +23,7 @@ $link = $_POST['other'];
 
 if(IsInjected($visitor_email))
 {
-    echo =alert("I am an alert box!");
+    echo = alert("I am an alert box!");
     exit;
 }
 $to = "haydenbsmith@gmail.com";//<== update the email address
