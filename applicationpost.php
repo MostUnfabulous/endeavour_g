@@ -1,13 +1,5 @@
 <?php
 
-
-if(empty($name)||empty($visitor_email))
-{
-	echo '<script type="text/javascript">';
-echo 'alert("Please Fill in all sections");';
-echo '</script>';
-    exit;
-}
 $name = $_POST['name'];
 $visitor_email = $_POST['email'];
 $link = $_POST['link'];
