@@ -35,7 +35,7 @@ $email_body = "New Guild application! .\n".
 							"Applicant Armory Link: $link .\n".
 							"Q1. Why does the applicant want to join?: $join.\n"
 							"Q2. What experiece does the applicant have? $exp.\n"
-							"Q3. Other information about applicant: $other.\n";
+							"Q3. Other information about applicant: $other.\n"
 //Send the email!
 mail($to,$email_subject,$email_body);
 //done. redirect to thank-you page.
