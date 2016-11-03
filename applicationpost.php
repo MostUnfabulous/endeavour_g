@@ -26,7 +26,7 @@ if(IsInjected($visitor_email))
     echo "Bad email value!";
     exit;
 }
-$to = "haydenbsmith@gmail.com";//<== update the email address
+$to = "haydenbsmith@gmail.com,kinsula@gmail.com";//<== update the email address
 $email_from = "contact@endeavour.ml";//<== update the email address
 $email_subject = "$name Guild Application";
 $email_body =
