@@ -29,10 +29,7 @@ if(IsInjected($visitor_email))
 $to = "haydenbsmith@gmail.com";//<== update the email address
 $email_from = "contact@endeavour.ml";//<== update the email address
 $email_subject = "$name Guild Application";
-$email_body = "New Guild application! .\n".
-							"Applicant Name: $name .\n".
-							"Applicant Email: $visitor_email . \n".
-							"Applicant Armory Link: $link . \n".
+$email_body = "New Guild application!";
 //Send the email!
 mail($to,$email_subject,$email_body);
 //done. redirect to thank-you page.
