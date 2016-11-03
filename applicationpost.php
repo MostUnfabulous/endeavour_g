@@ -30,7 +30,7 @@ $to = "haydenbsmith@gmail.com";//<== update the email address
 $email_from = "contact@endeavour.ml";//<== update the email address
 $email_subject = "$name Guild Application";
 $email_body =
-"New Guild application!\nQ1. Charachter Name: $name.\nQ2. Email adresss:$visitor_email.\nQ3: Why join Endeavor? $join";
+"New Guild application!\nQ1. Character Name: $name.\nQ2. Email adresss:$visitor_email.\nQ3. Why join Endeavor? $join\nQ4.What is your experience? $exp\nQ5. Other information: $other";
 
 //Send the email!
 mail($to,$email_subject,$email_body);
