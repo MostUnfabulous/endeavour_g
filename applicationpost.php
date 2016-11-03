@@ -10,7 +10,7 @@ $name = $_POST['name'];
 $visitor_email = $_POST['email'];
 $link = $_POST['link'];
 $join= $_POST['join'];
-$exp = $_POST['exp'];
+$expe = $_POST['exp'];
 $other = $_POST['other'];
 
 if(empty($name)||empty($visitor_email))
@@ -33,8 +33,8 @@ $email_body = "New Guild application! .\n".
 							"Applicant Name: $name .\n".
 							"Applicant Email: $visitor_email .\n".
 							"Applicant Armory Link: $link .\n".
-							"Q1. Why does the applicant want to join?: $join.\n"
-							"Q2. What experiece does the applicant have? $exp.\n"
+							"Q1. Why does the applicant want to join?: $join. \n"
+							"Q2. What experiece does the applicant have? $expe. \n"
 							"Q3. Other information about applicant: $other.\n"
 //Send the email!
 mail($to,$email_subject,$email_body);
