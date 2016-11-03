@@ -31,10 +31,9 @@ $email_from = 'contact@endeavour.ml';//<== update the email address
 $email_subject = "$name Guild Application";
 $email_body = "New Guild application! .\n".
 							"Applicant Name: $name .\n".
-							"Applicant Email: $visitor_email .\n".
-							"Applicant Armory Link: $link .\n".
+							"Applicant Email: $visitor_email . \n".
+							"Applicant Armory Link: $link . \n".
 							"Q1. Why does the applicant want to join?: $join. \n"
-							"Q2. What experiece does the applicant have? $expe. \n"
 							"Q3. Other information about applicant: $other.\n"
 //Send the email!
 mail($to,$email_subject,$email_body);
