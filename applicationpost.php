@@ -1,5 +1,11 @@
 <?php
 
+if(!isset($_POST['submit']))
+{
+	//This page should not be accessed directly. Need to submit the form.
+	echo "error; you need to submit the form!";
+}
+
 $name = $_POST['name'];
 $visitor_email = $_POST['email'];
 $link = $_POST['link'];
@@ -7,7 +13,11 @@ $link = $_POST['join'];
 $link = $_POST['exp'];
 $link = $_POST['other'];
 
-//Validate first
+if(empty($name)||empty($visitor_email))
+{
+    echo "Name and email are mandatory!";
+    exit;
+}
 
 
 
