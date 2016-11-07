@@ -2065,6 +2065,21 @@
 		border-color: black;
 	}
 
+	.panel.mage{
+border-color: #418ea6;
+
+	}
+
+	.panel.druid{
+border-color: #FF7D0A;
+
+	}
+
+	.panel.dk{
+border-color: #C41F3B;
+
+	}
+
 	.portrait.mage{
 border-color: #418ea6;
 
