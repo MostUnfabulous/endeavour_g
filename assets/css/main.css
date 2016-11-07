@@ -2048,11 +2048,12 @@
 	width: 100%;
 
 	height: 120px;
-	margin: 5px;
+	margin: -15px;
 	border-style: solid;
   border-width: 1px;
 	border-radius: 1px;
 	border-color: #418ea6;
+
 
 }
 
@@ -2067,32 +2068,43 @@
 
 	.panel.mage{
 border-color: #418ea6;
-
 	}
 
 	.panel.druid{
 border-color: #FF7D0A;
 
 	}
-
-	.panel.dk{
+.panel.dk{
 border-color: #C41F3B;
 
+	}
+	.panel.shaman{
+border-color: #0070DE;
+	}
+	.panel.priest{
+border-color: #FFFFFF;
 	}
 
 	.portrait.mage{
 border-color: #418ea6;
 
 	}
-
 	.portrait.druid{
 border-color: #FF7D0A;
 
 	}
 
+	.portrait.priest{
+		border-color: #FFFFFF;
+	}
+
 	.portrait.dk{
 border-color: #C41F3B;
 
+	}
+
+	.portrait.shaman{
+border-color: #0070DE;
 	}
 
 	.spec {
@@ -2118,6 +2130,14 @@ border-color: #FF7D0A;
 		.spec.dk{
 border-color: #C41F3B;
 
+		}
+
+		.spec.priest{
+			border-color: #FFFFFF	
+		}
+
+		.spec.shaman{
+	border-color: #0070DE;
 		}
 
 
