@@ -2122,7 +2122,7 @@ border-color: #C41F3B;
 
 
 	.panelinfo{
-		padding:15px
+		padding:20px
 
 	}
 
@@ -2136,15 +2136,17 @@ border-color: #C41F3B;
 
 }
 
-.panel h4 {
+.panel ul {
 
 	color:grey;
+	padding:5px	;
+
 }
 
 .panel a {
 
 	color:#418ea6;
-	margin: :0px;
+	margin-left: :0px;
 }
 
 
