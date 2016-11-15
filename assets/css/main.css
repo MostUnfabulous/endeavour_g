@@ -2050,8 +2050,8 @@
 	height: 120px;
 	margin: -15px;
 	border-style: solid;
-  border-width: 1px;
-	border-radius: 1px;
+  border-width: 1.5px;
+	border-radius: 0px;
 	border-color: #418ea6;
 
 
@@ -2066,46 +2066,6 @@
 		border-color: black;
 	}
 
-	.panel.mage{
-border-color: #418ea6;
-	}
-
-	.panel.druid{
-border-color: #FF7D0A;
-
-	}
-.panel.dk{
-border-color: #C41F3B;
-
-	}
-	.panel.shaman{
-border-color: #0070DE;
-	}
-	.panel.priest{
-border-color: #FFFFFF;
-	}
-
-	.portrait.mage{
-border-color: #418ea6;
-
-	}
-	.portrait.druid{
-border-color: #FF7D0A;
-
-	}
-
-	.portrait.priest{
-		border-color: #FFFFFF;
-	}
-
-	.portrait.dk{
-border-color: #C41F3B;
-
-	}
-
-	.portrait.shaman{
-border-color: #0070DE;
-	}
 
 	.spec {
 
@@ -2118,26 +2078,55 @@ border-color: #0070DE;
 		}
 
 
-		.spec.mage{
-border-color: #418ea6;
+		.spec.mage,.panel.mage,.portrait.mage{
+			border-color: #418ea6;
 
 		}
 
-		.spec.druid{
-border-color: #FF7D0A;
+		.spec.druid,.panel.druid,.portrait.druid{
+			border-color: #FF7D0A;
 		}
 
-		.spec.dk{
-border-color: #C41F3B;
+		.spec.dk,.panel.dk,.portrait.dk{
+			border-color: #C41F3B;
 
 		}
 
-		.spec.priest{
-			border-color: #FFFFFF	
+		.spec.dh,.panel.dh,.portrait.dh{
+			border-color: #A330C9;
+
 		}
 
-		.spec.shaman{
-	border-color: #0070DE;
+		.spec.priest,.panel.priest,.portrait.priest{
+			border-color: #FFFFFF
+		}
+
+		.spec.shaman,.panel.shaman,.portrait.shaman{
+			border-color: #0070DE;
+		}
+
+		.spec.rogue,.panel.rogue,.portrait.rogue{
+			border-color: #FFF569;
+		}
+
+		.spec.hunter,.panel.hunter,.portrait.hunter{
+			border-color: #ABD473;
+		}
+
+		.spec.monk,.panel.monk,.portrait.monk{
+			border-color: #00FF96;
+		}
+
+		.spec.paladin,.panel.paladin,.portrait.paladin{
+			border-color: #F58CBA;
+		}
+
+		.spec.warlock,.panel.warlock,.portrait.warlock{
+			border-color: #9482C9;
+		}
+
+		.spec.warrior,.panel.warrior,.portrait.warrior{
+			border-color: #C79C6E;
 		}
 
 
