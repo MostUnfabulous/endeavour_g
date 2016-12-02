@@ -26,7 +26,7 @@ if(IsInjected($visitor_email))
     echo "Bad email value!";
     exit;
 }
-$to = "haydenbsmith@gmail.com,kinsula@gmail.com,pj930@hotmail.co.uk ";//<== update the email address
+$to = "haydenbsmith@gmail.com,kinsula@gmail.com,pj930@hotmail.co.uk,lucassmith725@hotmail.co.uk ";//<== update the email address
 $email_from = "Endeavour";//<== update the email address
 $email_subject = "$name Guild Application";
 $email_body =
@@ -35,7 +35,7 @@ $headers = "From: $email_from \r\n";
 //Send the email!
 mail($to,$email_subject,$email_body,$headers);
 //done. redirect to thank-you page.
-header('Location: index.html');
+header('Location: post.html');
 
 
 // Function to validate against any email injection attempts
