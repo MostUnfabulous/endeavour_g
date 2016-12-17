@@ -7,5 +7,7 @@
   <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
   <link rel="stylesheet" href="assets\fonts\fontawesome\css\font-awesome.min.css">
 
+  <link rel="stylesheet" href="http://endeavour.ml/wordpress/wp-content/themes/my-awesome-theme/style.css
+
   <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
 </head>
