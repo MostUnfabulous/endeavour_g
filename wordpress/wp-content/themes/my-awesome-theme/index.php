@@ -47,7 +47,7 @@
               <?php while ( have_posts() ) : the_post(); ?>
 
             <section>
-            <a href="<?php the_permalink(); ?>" class="image"><img src="<?php the_post_thumbnail();?>" alt="" data-position="top center" /></a>
+            <a href="<?php the_permalink(); ?>" class="image"><img src="<?php the_post_thumbnail(); ?>" alt="" data-position="top center" /></a>
             <div class="content">
                   <div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
               <div class="inner">
