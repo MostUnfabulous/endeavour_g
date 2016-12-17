@@ -52,7 +52,6 @@ function myfirsttheme_setup() {
      * aside, gallery, quote, image, and video
      */
     
-		add_theme_support( 'post-thumbnails' );
 }
 endif; // myfirsttheme_setup
 add_action( 'after_setup_theme', 'myfirsttheme_setup' );

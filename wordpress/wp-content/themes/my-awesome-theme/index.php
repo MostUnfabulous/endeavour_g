@@ -47,7 +47,8 @@
               <?php while ( have_posts() ) : the_post(); ?>
 
             <section>
-            <a href="<?php the_post_thumbnail_url(); ?>" class="image"><img src="<?php the_post_thumbnail_url(); ?>" alt="" data-position="top center" /></a>
+            <a href="<?php the_post_thumbnail_url(); ?>" class="image">
+              <img src="<?php the_post_thumbnail_url(); ?>" alt="" data-position="top center" /></a>
             <div class="content">
                   <div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
               <div class="inner">
@@ -61,7 +62,7 @@
               <?php endwhile; endif; ?>
 
 						<section>
-						<a href="images/odynhc.jpg" class="image"><img src="images/odynhc.jpg" alt="" data-position="top center" /></a>
+						<a href="http://endeavour.ml/images/odynhc.jpg" class="image"><img src="http://endeavour.ml/images/odynhc.jpg" alt="" data-position="top center" /></a>
 						<div class="content">
 							<div class="inner">
 								<h2>At last!</h2>
