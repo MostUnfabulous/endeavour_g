@@ -22,8 +22,8 @@ if ( ! function_exists( 'myfirsttheme_setup' ) ) :
  */
 function myfirsttheme_setup() {
 
-  
-     */
+
+
     add_theme_support( 'post-thumbnails' );
 
 }
