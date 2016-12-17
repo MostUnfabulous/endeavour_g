@@ -43,6 +43,25 @@
 				<!-- One -->
 					<section id="one" class="wrapper style2 spotlights">
 
+            <section>
+            <a href="<?php the_permalink(); ?>" class="image"><img src="images/odynhc.jpg" alt="" data-position="top center" /></a>
+            <div class="content">
+
+              <?php if ( have_posts() ) : ?>
+                <?php while ( have_posts() ) : the_post(); ?>
+                  <div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+              <div class="inner">
+                <h2>"Permanent Link to <?php the_title_attribute(); ?>"><?php the_title(); ?></a></h2>
+                <h4><?php the_time( 'j s F' ); ?></h4>
+                <p><?php the_content(); ?></p>
+                  <ul class="actions">
+                  </ul>
+                </div>
+              </div>
+            <?php else : ?>
+            <?php endif; ?>
+            </section>
+
 						<section>
 						<a href="images/odynhc.jpg" class="image"><img src="images/odynhc.jpg" alt="" data-position="top center" /></a>
 						<div class="content">
