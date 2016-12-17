@@ -4,8 +4,8 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html>
-	get_header(); ?>
+
+	<?php get_header(); ?>
 	<body>
 
 		<!-- Sidebar -->
@@ -234,4 +234,3 @@
 			<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 	</body>
-</html>
