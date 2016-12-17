@@ -1,11 +1,4 @@
 <!DOCTYPE html>
-/*
-Theme Name: hypermage
-Author: Tania Rascia
-Description: Bootstrap Blog template converted to WordPress
-Version: 0.0.1
-Tags: bootstrap
-*/
 
 <html>
 	<head>
