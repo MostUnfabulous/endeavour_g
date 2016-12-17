@@ -51,8 +51,8 @@
             <div class="content">
                   <div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
               <div class="inner">
-                <h2>"<?php the_title_attribute(); ?>"><?php the_title(); ?></a></h2>
-                <h4><?php the_time( 'j, s, F' ); ?></h4>
+                <h2>"<?php the_title_attribute(); ?>"<?php the_title(); ?></a></h2>
+                <h4><?php the_time( 'dS F' ); ?></h4>
                 <p><?php the_content(); ?></p>
                   <ul class="actions">
                   </ul>
