@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="style.css" />
+<link href="<?php bloginfo('template_directory');?>/style.css" rel="stylesheet">
+
 <?php get_header(); ?>
 
 
