@@ -45,14 +45,13 @@
 
             <?php if ( have_posts() ) : ?>
               <?php while ( have_posts() ) : the_post(); ?>
-
             <section>
             <a href="<?php the_post_thumbnail_url(); ?>" class="image">
               <img src="<?php the_post_thumbnail_url(); ?>" alt="" data-position="top center" /></a>
             <div class="content">
                   <div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
               <div class="inner">
-                <h2><?php the_title(); ?></a></h2>
+                <h2><?php the_title(); ?></h2>
                 <h4><?php the_time( 'dS F' ); ?></h4>
                 <p><?php the_content(); ?></p>
                   <ul class="actions">
