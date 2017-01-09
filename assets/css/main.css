@@ -1717,9 +1717,9 @@
 	}
 
 		h1.major {
-			margin: 0 0 1.3em 0;
+			margin: 0 0 0.5em 0;
 			position: relative;
-			padding-bottom: 0.35em;
+			padding-bottom: 0.1em;
 		}
 
 			h1.major:after {
@@ -1736,7 +1736,7 @@
 				content: '';
 				height: 0.05em;
 				position: absolute;
-				right: 0;
+				left: 15px;;
 				width: 100%;
 			}
 
@@ -3335,7 +3335,7 @@
 				border-top: 0;
 			}
 
-/* Wrapper */
+/* Wrapper FIX FOR FOLEY*/
 
 	.wrapper {
 		position: relative;
