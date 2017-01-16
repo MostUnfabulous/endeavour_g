@@ -12,6 +12,7 @@ $link = $_POST['link'];
 $join= $_POST['join'];
 $expe = $_POST['exp'];
 $other = $_POST['other'];
+$class = $_POST['class'];
 
 if(empty($name)||empty($visitor_email))
 {
