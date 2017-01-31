@@ -230,7 +230,7 @@ before we high-tailed it out of there to face Xavius!</p>
 														</ul>
 													</form>
 												</section>
-							
+
 
 												</section>
 
@@ -249,5 +249,5 @@ before we high-tailed it out of there to face Xavius!</p>
 								<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 							</body>
-							<?php include("footer.php"); ?>
+
 							</html>
