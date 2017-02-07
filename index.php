@@ -61,7 +61,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 			<div class="content">
 				<div class="inner">
 					<h2>Endeavour Rinse the Pincer</h2>
-					<h4>6th February</h4>
+					<h4>5th February</h4>
 					<p>We should be proud of ourshellves. Tonight, Endeavour scuttled into Skorpyron's sombre sanctuary
 						and slew the slaughterous subterranean scorpid! There's no claws for concern -
 						in a pinch, we cracked his chitin and severed his stinger, violently vaporizing the venomous villain.
