@@ -57,6 +57,29 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 
 		<section>
+			<a href="skorpmy.html" class="image"><img src="images/skorpmy.jpg" alt="" data-position="top center" /></a>
+			<div class="content">
+				<div class="inner">
+					<h2>Endeavour Rinse the Pincer</h2>
+					<h4>6th February</h4>
+					<p>We should be proud of ourshellves. Tonight, Endeavour scuttled into Skorpyron's sombre sanctuary
+						and slew the slaughterous subterranean scorpid! There's no claws for concern -
+						in a pinch, we cracked his chitin and severed his stinger, violently vaporizing the venomous villain.
+						 Looks like we nipped this one in the bud!<p>
+						</section>
+
+		<section>
+			<a href="gulhc.html" class="image"><img src="images/gulhc.jpg" alt="" data-position="top center" /></a>
+			<div class="content">
+				<div class="inner">
+					<h2>Goodnight, Gul'dan</h2>
+					<h4>5th February</h4>
+					<p>Tonight, Endeavour eradicated some evil entities and expunged some empowered elves. Easy! We navigated the Nighthold
+						in no time and finally felled the ferocious fel-lord. See you in Mythic!<p>
+						</section>
+
+
+		<section>
 			<a href="xavmy.html" class="image"><img src="images/xavmy.jpg" alt="" data-position="top center" /></a>
 			<div class="content">
 				<div class="inner">
@@ -98,38 +121,6 @@ before we high-tailed it out of there to face Xavius!</p>
 					</div>
 				</div>
 			</section>
-
-		<section>
-			<a href="images/dragmy.jpg" class="image"><img src="images/dragmy.jpg" alt="" data-position="top center" /></a>
-			<div class="content">
-				<div class="inner">
-					<h2>A Tail of Triumph</h2>
-					<h4>18th December</h4>
-					<p>Today we tipped the scales in our favour and proved that we're up to scratch -
-						clawing our way into the Dreamway and achieving a
-						fangtastic victory as we took a bite out of the Dragons of Nightmare. It didn't drag on - we totally winged this one!</p>
-					</div>
-				</div>
-			</section>
-
-
-
-				<section>
-					<a href="images/ursmy.jpg" class="image"><img src="images/ursmy.jpg" alt="" data-position="top center" /></a>
-					<div class="content">
-						<div class="inner">
-							<h2>Endeavour Get Grizzly</h2>
-							<h4>30th November</h4>
-							<p>After some embearrassing wipes and an unbearable number of deaths, we finally got our bearings and bearied the
-								Great Bear Spirit with bearly a single raid member alive!
-								Thanks to our bear-faced efforts and bearbaric forbearance, we've made some bearilliant progress since our humble bearginnings.</p>
-								<ul class="actions">
-								</ul>
-							</div>
-						</div>
-					</section>
-
-
 
 
 						</section>
