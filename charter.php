@@ -33,7 +33,7 @@
 					<section id="main" class="wrapper">
 						<div class="inner">
 							<h1 class="major">Charter</h1>
-							<h2>Our Vision<h2>
+							<h2>Our Vision</h2>
 								<p>We are a small but tightly-knit community of raiders who are dedicated not neccesserily to expending large amounts of time on completing content, but instead to make the most out of the little time we have allocated for progression content. As a result, we are very relaxed outside of raids: our community is filled with chilled and incredibly funny people. In raids however, we aim to complete those with the full dedication of raiders, consistency and seriousness, so that we can reach our goal of completing content at the highest level without raiders having to attend extreme amounts of raids every week.</p>
 							<h2>Attendance</h2>
 							<p>Our progression and farm raids are on Wednesdays, Sundays and Mondays at 8-11pm.
@@ -60,9 +60,10 @@
 												  We recommend that you farm AP as much as possible, complete relevant Mythic+’s, and PuG appropriate raids. After all,
 													we do want you to have fun so have liberty in this,
 												 although we will inform you if we feel that you are not putting enough effort into your characters.</p>
-												 <h2>Administration & Complaints<h2>
+												 <h2>Administration & Complaints</h2>
 													 <p>Almost all loot from progression and farm raids will be distributed using a loot council. Each week, two randomly assigned officers + raiders will make up the council and loot is allocated once a fair, unanimous decision is made. Socials, trials and new raiders (those who've been promoted to raid in the past 2+ weeks) will have low loot priority.
-Socials must have no expectation of being invited to raid, although if circumstances allow, Thursday raid nights may occasionally see socials. Newly recruited members will automatically become a trial and will become so for as long as neccessery for the officers to reach a unanimous conclusion based on their performance - they will either be asked to leave, become a reserve, or to become a member of the raid team.
+Socials must have no expectation of being invited to raid, although if circumstances allow, Thursday raid nights may occasionally see socials.</p>
+<p> Newly recruited members will automatically become a trial and will become so for as long as neccessery for the officers to reach a unanimous conclusion based on their performance - they will either be asked to leave, become a reserve, or to become a member of the raid team.
 If you believe that a player is not up to standards with mechanical awareness, DPS/HPS etc., any issues regarding gameplay and administration (such as raid times, loot competition), please contact Fen (Joicy). The issue will be communicated to the other officers; we will look into this and we will handle issues seriously and in a discrete manner. Be convinced that if what you have said is true and of significance, we will do something about it.</p>
 
 					</section>
