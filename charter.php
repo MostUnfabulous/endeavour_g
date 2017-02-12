@@ -50,6 +50,7 @@
 										 up at a raid. It is also recommended that you bring augment runes,
 										  although you will not be asked to use it very often. We have members who have the relevant profession to craft consumables –
 										 simply ask them nicely before the raid. In addition, it goes without saying that your gear must be fully enchanted & gemmed.
+										 In addition, you will be required to have installed the addons DBM/BigWigs, RCLootCouncil and BestInSlot. We also highly recommend WeakAuras and Pawn, although those require setting up. </p>
 										 <p>You must be fully committed to the raid after we begin, since we only have three days per week to complete progression content
 											  (which means minimal AFK, especially on trash pulls, and using consumables, including pre-potting).
 												 You must be in the Discord server and can listen - working microphones are not required, but are <b>highly recommended.</b>
