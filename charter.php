@@ -33,6 +33,8 @@
 					<section id="main" class="wrapper">
 						<div class="inner">
 							<h1 class="major">Charter</h1>
+							<h2>Our Vision<h2>
+								<p>We are a small but tightly-knit community of raiders who are dedicated not neccesserily to expending large amounts of time on completing content, but instead to make the most out of the little time we have allocated for progression content. As a result, we are very relaxed outside of raids: our community is filled with chilled and incredibly funny people. In raids however, we aim to complete those with the full dedication of raiders, consistency and seriousness, so that we can reach our goal of completing content at the highest level without raiders having to attend extreme amounts of raids every week.</p>
 							<h2>Attendance</h2>
 							<p>Our progression and farm raids are on Wednesdays, Sundays and Mondays at 8-11pm.
 								We will run slightly less relevant content on Thursday nights – those raids are optional. Raiders will be expected to attend the three main
@@ -43,7 +45,7 @@
 								we will prioritize firstly those who signed up on the calendar, and then those who
 								 are the most relevant for the fight. Please do not feel offended or disappointed about being benched –
 								 it usually is not due to your personal performance and you will get your chance soon. On farm runs we prioritize those who requires gear. </p>
-								 <h2>Expectations in raids and outside of raids
+								 <h2>Expectations in raids and outside of raids</h2>
 									 <p>There is a <b>minimum</b> expectation that you will bring relevant flasks, potions and food before you turn
 										 up at a raid. It is also recommended that you bring augment runes,
 										  although you will not be asked to use it very often. We have members who have the relevant profession to craft consumables –

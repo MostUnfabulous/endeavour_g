@@ -136,7 +136,7 @@ before we high-tailed it out of there to face Xavius!</p>
 <p>We offer a unique raiding experience - we're a very close-knit, chilled out guild, and while we're definitely serious
  about progression, we want everyone to have fun and enjoy their time playing. Everyone is welcome (and encouraged!) to speak on Discord, we value the input of EVERY player, and we want everyone to join in on the fun. </p>
 
-<p>. If you've got any questions, please don't hesitate to contact one of us in-game - Folez, Articon, Ereos, Joicy and Shammande will be happy to talk.</p>
+<p>If you've got any questions, please don't hesitate to contact one of us in-game - Folez, Articon, Ereos, Joicy and Shammande will be happy to talk.</p>
 									<div class="features">
 										<section>
 											<span class="icon major fa-calendar"></span>
