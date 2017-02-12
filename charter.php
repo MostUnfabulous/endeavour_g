@@ -18,7 +18,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a href="index.html" class="title">Endeavour</a>
+				<a href="index.php" class="title">Endeavour</a>
 				<nav>
 					<ul>
 						<li><a href="index.php">Home</a></li>
@@ -38,7 +38,7 @@
 									In raids however, we aim to complete those with the <b>full dedication of raiders</b>, consistency and seriousness, so that we can reach our goal of completing content at the highest level without raiders having to attend extreme amounts of raids every week.</p>
 							<h2>Attendance</h2>
 							<p>Our progression and farm raids are on <b>Wednesdays, Sundays and Mondays at 8-11pm.</b>
-								We will run slightly less relevant content on Thursday nights – those raids are optional.<b>Raiders will be expected to attend the three main
+								We will run slightly less relevant content on Thursday nights – those raids are optional.<b>Raiders will be <b>expected to sign up</b> and attend the three main
 								raids every week</b>, although we understand that you will sometimes have inevitable commitments – inform an officer of the reason.
 								Aim for a 95%+ attendance whenever possible.</p>
 								<h2>Roster</h2>
@@ -65,7 +65,7 @@
 												 <h2>Administration & Complaints</h2>
 													 <p>Almost all loot from progression and farm raids will be distributed using a <b>loot council.</b> Each week, two randomly assigned officers + raiders will make up the council and loot is allocated once a fair, unanimous decision is made. Socials, trials and new raiders (those who've been promoted to raid in the past 2+ weeks) will have low loot priority.
 Socials must have no expectation of being invited to raid, although if circumstances allow, Thursday raid nights may occasionally see socials.</p>
-<p> Newly recruited members will automatically become a trial and will become so for as long as neccessery for the officers to reach a unanimous conclusion based on their performance - they will either be asked to leave, become a reserve, or to become a member of the raid team.
+<p> Newly recruited members will automatically become a trial and will become so for as long as neccessery, <b>2 Weeks absolute minimum</b>, for the officers to reach a unanimous conclusion based on their performance - they will either be asked to leave, become a reserve, or to become a member of the raid team.
 If you believe that a player is not up to standards with mechanical awareness, DPS/HPS etc., any issues regarding gameplay and administration (such as raid times, loot competition), <b>please contact Fen (Joicy).</b> The issue will be communicated to the other officers; we will look into this and we will handle issues seriously and in a discrete manner. Be convinced that if what you have said is true and of significance, we will do something about it.</p>
 
 					</section>
