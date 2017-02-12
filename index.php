@@ -131,13 +131,12 @@ before we high-tailed it out of there to face Xavius!</p>
 								<h2>About Us</h2>
 								<p>Endeavour formed at the start of Legion, comprised mostly of veteran players - most of us have been raiding since Classic -
 									and since then, we've rapidly progressed through all raid difficulties. We achieved 7/7M on Jan 10th - killing Mythic Il'gynoth,
-									Cenarius and Xavius in just 3 days, thanks to the effort and perseverance of our awesome raid team. </p>
+									Cenarius and Xavius in just 3 days, thanks to the effort and perseverance of our awesome raid team.</p>
 
 <p>We offer a unique raiding experience - we're a very close-knit, chilled out guild, and while we're definitely serious
- about progression, we want everyone to have fun and enjoy their time playing. Everyone is welcome (and encouraged!) to speak on Discord,
- both in and out of raids. We value the input of EVERY player, and we want everyone to join in on the fun. </p>
+ about progression, we want everyone to have fun and enjoy their time playing. Everyone is welcome (and encouraged!) to speak on Discord, we value the input of EVERY player, and we want everyone to join in on the fun. </p>
 
-<p>For more information, check our the website. If you've got any questions, please don't hesitate to contact one of us in-game - Folez, Articon, Ereos and Femilian will be happy to talk.</p>
+<p>. If you've got any questions, please don't hesitate to contact one of us in-game - Folez, Articon, Ereos, Joicy and Shammande will be happy to talk.</p>
 									<div class="features">
 										<section>
 											<span class="icon major fa-calendar"></span>
@@ -201,7 +200,7 @@ before we high-tailed it out of there to face Xavius!</p>
 															<input type="text" name="link" id="link" required/>
 														</div>
 														<div class="field ">
-															<label for="class"></br>What is your class, spec, and current item level?</label>
+															<label for="class"></br>What is your class, spec, and current item level and Artifact trait level?</label>
 															<input type="text" name="class" id="class" required/>
 														</div>
 														<div class="field">
