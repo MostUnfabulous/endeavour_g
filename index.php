@@ -163,8 +163,8 @@ before we high-tailed it out of there to face Xavius!</p>
 														<span class="icon major fa-users"></span>
 														<h3>Guild Values</h3>
 														<p>Our guild values are explained in the Guild Charter, this expains
-															in deatail what we are about and what to expect from the guild. Please give it a read before you apply!</p>
-															<a href="http://endeavour.ml/charter.php" class="button big" style="margin;">Guild Charter</a></p>
+															in detail what we are about and what to expect from the guild. Please give it a read before you apply!</p>
+															<a href="http://endeavour.ml/charter.php" class="button big" style="margin: auto;">Guild Charter</a></p>
 														</section>
 														<section>
 															<span class="icon major fa-snowflake-o"></span>
