@@ -67,19 +67,6 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 						 Looks like we nipped this one in the bud!<p>
 						</section>
 
-
-		<section>
-			<a href="skorpmy.html" class="image"><img src="images/skorpmy.jpg" alt="" data-position="top center" /></a>
-			<div class="content">
-				<div class="inner">
-					<h2>Endeavour Rinse the Pincer</h2>
-					<h4>5th February</h4>
-					<p>We should be proud of ourshellves. Tonight, Endeavour scuttled into Skorpyron's sombre sanctuary
-						and slew the slaughterous subterranean scorpid! There's no claws for concern -
-						in a pinch, we cracked his chitin and severed his stinger, violently vaporizing the venomous villain.
-						 Looks like we nipped this one in the bud!<p>
-						</section>
-
 		<section>
 			<a href="gulhc.html" class="image"><img src="images/gulhc.jpg" alt="" data-position="top center" /></a>
 			<div class="content">
@@ -89,7 +76,6 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 					<p>Tonight, Endeavour eradicated some evil entities and expunged some empowered elves. Easy! We navigated the Nighthold
 						in no time and finally felled the ferocious fel-lord. See you in Mythic!<p>
 						</section>
-
 
 		<section>
 			<a href="xavmy.html" class="image"><img src="images/xavmy.jpg" alt="" data-position="top center" /></a>
@@ -120,7 +106,6 @@ before we high-tailed it out of there to face Xavius!</p>
 				</div>
 			</section>
 
-
 		<section>
 			<a href="images/ilgmy.jpg" class="image"><img src="images/ilgmy.jpg" alt="" data-position="top center" /></a>
 			<div class="content">
@@ -133,7 +118,6 @@ before we high-tailed it out of there to face Xavius!</p>
 					</div>
 				</div>
 			</section>
-
 
 						</section>
 
@@ -177,10 +161,10 @@ before we high-tailed it out of there to face Xavius!</p>
 													</section>
 													<section>
 														<span class="icon major fa-users"></span>
-														<h3>Stay Awhile and Listen</h3>
-														<p>Everyone's expected to be on Discord during raids, but we encourage you to come on and chat
-															with us even when we aren't raiding!</p>
-															<a href="https://discord.gg/EV8DU39" class="button big" style="margin;">Discord Link</a></p>
+														<h3>Guild Values</h3>
+														<p>Our guild values are explained in the Guild Charter, this expains
+															in deatail what we are about and what to expect from the guild. Please give it a read before you apply!</p>
+															<a href="http://endeavour.ml/charter.php" class="button big" style="margin;">Guild Charter</a></p>
 														</section>
 														<section>
 															<span class="icon major fa-snowflake-o"></span>
@@ -232,8 +216,6 @@ before we high-tailed it out of there to face Xavius!</p>
 														</ul>
 													</form>
 												</section>
-
-
 												</section>
 
 											<?php include("footer.php"); ?>
