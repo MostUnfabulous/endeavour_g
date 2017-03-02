@@ -51,7 +51,7 @@
 										 up at a raid. It is also recommended that you bring augment runes,
 										  although you will not be asked to use it very often. We have members who have the relevant profession to craft consumables –
 										 simply ask them nicely before the raid. In addition, it goes without saying that your gear must be fully enchanted & gemmed.
-										 In addition, you will be required to have installed the addons DBM/BigWigs, RCLootCouncil and BestInSlot. We also highly recommend WeakAuras and Pawn, although those require setting up.</p>
+										 In addition, you will be required to have installed the addons <b>DBM/BigWigs, RCLootCouncil and BestInSlot.</b> We also highly recommend WeakAuras and Pawn, although those require setting up.</p>
 										 <p>You must be fully committed to the raid after we begin, since we only have three days per week to complete progression content
 											  (which means minimal AFK, especially on trash pulls, and using consumables, including pre-potting).
 												 You must be in the Discord server and can listen - working microphones are not required, but are <b>highly recommended.</b>
@@ -63,9 +63,9 @@
 													we do want you to have fun so have liberty in this,
 												 although we will inform you if we feel that you are not putting enough effort into your characters.</p>
 												 <h2>Administration & Complaints</h2>
-													 <p>Almost all loot from progression and farm raids will be distributed using a <b>loot council.</b> Each week, two randomly assigned officers + raiders will make up the council and loot is allocated once a fair, unanimous decision is made. Socials, trials and new raiders (those who've been promoted to raid in the past 2+ weeks) will have low loot priority.
+													 <p>Almost all loot from progression and farm raids will be distributed using a <b>loot council.</b> Each week, two randomly assigned officers + raiders will make up the council and loot is allocated once a fair, unanimous decision is made. Socials and trials will have low loot priority.
 Socials must have no expectation of being invited to raid, although if circumstances allow, Thursday raid nights may occasionally see socials.</p>
-<p> Newly recruited members will automatically become a trial and will become so for as long as neccessery, <b>2 Weeks absolute minimum</b>, for the officers to reach a unanimous conclusion based on their performance - they will either be asked to leave, become a reserve, or to become a member of the raid team.
+<p> Newly recruited members will automatically become a trial and will become so for as long as neccessery, for a minimum of 2 weeks for successful trials (although rejections may be decided much earlier than the 2-week window), for the officers to reach a unanimous conclusion based on their performance - they will either be asked to leave, become a reserve, or to become a member of the raid team.
 If you believe that a player is not up to standards with mechanical awareness, DPS/HPS etc., any issues regarding gameplay and administration (such as raid times, loot competition), <b>please contact Fen (Joicy).</b> The issue will be communicated to the other officers; we will look into this and we will handle issues seriously and in a discrete manner. Be convinced that if what you have said is true and of significance, we will do something about it.</p>
 
 					</section>

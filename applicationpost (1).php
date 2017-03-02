@@ -12,7 +12,6 @@ $link = $_POST['link'];
 $join= $_POST['join'];
 $expe = $_POST['exp'];
 $other = $_POST['other'];
-$class = $_POST['class'];
 
 if(empty($name)||empty($visitor_email))
 {
@@ -27,11 +26,11 @@ if(IsInjected($visitor_email))
     echo "Bad email value!";
     exit;
 }
-$to = "haydenbsmith@gmail.com,jaymcdonald1@gmail.com,fenrus3@gmail.com,muchenli@hotmail.co.uk";//<== update the email address
+$to = "haydenbsmith@gmail.com,kinsula@gmail.com,pj930@hotmail.co.uk,lucassmith725@hotmail.co.uk,zarzalu123@gmail.com";//<== update the email address
 $email_from = "Endeavour";//<== update the email address
 $email_subject = "$name Guild Application";
 $email_body =
-"New Guild application! \n Q1. Character Name: $name. \n Q2. Email adresss:$visitor_email  \n Q3. Armoury Link: $link \n Q4. Class Spec ilvl? $class. \n Q5. Why join Endeavour? $join. \n Q6.What is your experience? $expe. \n Q7. Other information: $other.";
+"New Guild application! \n Q1. Character Name: $name. \n Q2. Email adresss:$visitor_email. \n Q3. Armory Link: $link. \n Q4. Class Spec ilvl? $class \n Q5. Why join Endeavor? $join \n Q6.What is your experience? $expe \n Q7. Other information: $other";
 $headers = "From: $email_from \r\n";
 //Send the email!
 mail($to,$email_subject,$email_body,$headers);

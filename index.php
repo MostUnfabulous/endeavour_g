@@ -55,6 +55,18 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 	<!-- One -->
 	<section id="news" class="wrapper style2 spotlights">
 
+		<section>
+			<a href="skorpmy.html" class="image"><img src="images/skorpmy.jpg" alt="" data-position="top center" /></a>
+			<div class="content">
+				<div class="inner">
+					<h2>Endeavour Rinse the Pincer</h2>
+					<h4>5th February</h4>
+					<p>We should be proud of ourshellves. Tonight, Endeavour scuttled into Skorpyron's sombre sanctuary
+						and slew the slaughterous subterranean scorpid! There's no claws for concern -
+						in a pinch, we cracked his chitin and severed his stinger, violently vaporizing the venomous villain.
+						 Looks like we nipped this one in the bud!<p>
+						</section>
+
 
 		<section>
 			<a href="skorpmy.html" class="image"><img src="images/skorpmy.jpg" alt="" data-position="top center" /></a>
@@ -168,7 +180,7 @@ before we high-tailed it out of there to face Xavius!</p>
 														<h3>Stay Awhile and Listen</h3>
 														<p>Everyone's expected to be on Discord during raids, but we encourage you to come on and chat
 															with us even when we aren't raiding!</p>
-															<a href="https://discord.gg/VmVDjva" class="button big" style="margin;">https://discord.gg/VmVDjva</a></p>
+															<a href="https://discord.gg/EV8DU39" class="button big" style="margin;">Discord Link</a></p>
 														</section>
 														<section>
 															<span class="icon major fa-snowflake-o"></span>
