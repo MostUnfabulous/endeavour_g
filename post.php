@@ -18,12 +18,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a href="index.html" class="title">Endeavour</a>
-				<nav>
-					<ul>
-						<li><a href="index.html">Home</a></li>
-					</ul>
-				</nav>
+				<a href="index.php" class="title">ENDEAVOUR</a>
 			</header>
 
 		<!-- Wrapper -->
@@ -33,21 +28,14 @@
 					<section id="main" class="wrapper">
 						<div class="inner">
 							<h1 class="">Application Received!</h1>
-							<p>Thanks for taking the time to apply to Endeavour! We'll try to get back to you in-game or via email within 48 hours. If you need to message us before then feel free to contact us on Battle.net or email us at <a href="mailto:contact@endeavour.ml<?subject=RE:Application">contact@endeavour.ml</a>
+							<p>Thanks for taking the time to apply to Endeavour! We'll try to get back to you in-game or via email within 48 hours. If you need to message us before then feel free to contact us on Battle.net or email us at <b>contact@endeavour.ml</b></a>
 							<br>
 								<span class="image fit"><img src="images/post.jpg" alt="" /></span></div>
 					</section>
 
 			</div>
 
-		<!-- Footer
-			<footer id="footer" class="wrapper alt">
-				<div class="inner">
-					<ul class="menu">
-						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-					</ul>
-				</div>
-			</footer> -->
+											<?php include("footer.php"); ?>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
