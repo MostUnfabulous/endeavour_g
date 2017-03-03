@@ -91,6 +91,8 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 						in no time and finally felled the ferocious fel-lord. See you in Mythic!<p>
 						</section>
 
+					</section>
+
 
 
 						<!-- Two -->
