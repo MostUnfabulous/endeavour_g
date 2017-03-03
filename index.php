@@ -109,6 +109,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
  <p>We are currently 3/10M, killing both Gul'dan Heroic and Skorpyron Mythic on Feb 5th, and, most recently, killed Mythic Trilliax on 26th February</p>
  <p><a href="archive.php" class="button big" style="margin-left:40%;">News Archive</a></p>
 									<div class="features">
+										<p><a href="archive.php" class="button big" style="margin-left:50%;">News Archive</a></p>
 										<section>
 											<span class="icon major fa-calendar"></span>
 											<h3>Raid Schedule</h3>
