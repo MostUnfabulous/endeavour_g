@@ -106,8 +106,8 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 <p>We offer a unique raiding experience - we're a very close-knit, chilled out guild, and while we're definitely serious
  about progression, we want everyone to have fun and enjoy their time playing. Everyone is welcome (and encouraged!) to speak on Discord, we value the input of EVERY player, and we want everyone to join in on the fun.
   If you've got any questions, please don't hesitate to contact one of us in-game - Joicy, Articon, Xerphon and Shammande will be happy to talk.</p>
-	<a href="archive.html" class="button big" style="margin-left:25%;">Endeavour Archive</a>
  <p>We are currently 3/10M, killing both Gul'dan Heroic and Skorpyron Mythic on Feb 5th, and, most recently, killed Mythic Trilliax on 26th February</p>
+ <p><a href="archive.html" class="button big" style="margin-left:50%;">Endeavour Archive</a></p>
 									<div class="features">
 										<section>
 											<span class="icon major fa-calendar"></span>
