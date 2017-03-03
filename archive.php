@@ -18,12 +18,8 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a href="index.html" class="title">Archive</a>
-				<nav>
-					<ul>
-						<li><a href="index.html">ENDEAVOUR</a></li>
-					</ul>
-				</nav>
+				<a href="index.html" class="title">ENDEAVOUR</a>
+			
 			</header>
 
 		<!-- Wrapper -->
@@ -135,7 +131,7 @@
 										</div>
 									</div>
 								</section>
-	
+
 
 							<section>
 								<a href="images/elmymy.jpg" class="image"><img src="images/elmy.jpg" alt="" data-position="top center" /></a>
