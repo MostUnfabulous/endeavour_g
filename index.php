@@ -63,7 +63,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 			<div class="content">
 				<div class="inner">
 					<h2>Get Stuffed Trilliax</h2>
-					<h4>5th February</h4>
+					<h4>26th February</h4>
 					<p>Ain't no lie, an Energised Endeavour annihilates a crummy caretaker. This nuisance Nightborn servant seriously took the cake and we served a
 						serious slice of pain. After finally finishing this feast of a boss Endeavour looks to Sterilise the rest of the Nighthold.  <p>
 						</section>
