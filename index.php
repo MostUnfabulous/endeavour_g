@@ -107,7 +107,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
  about progression, we want everyone to have fun and enjoy their time playing. Everyone is welcome (and encouraged!) to speak on Discord, we value the input of EVERY player, and we want everyone to join in on the fun.
   If you've got any questions, please don't hesitate to contact one of us in-game - Joicy, Articon, Xerphon and Shammande will be happy to talk.</p>
  <p>We are currently 3/10M, killing both Gul'dan Heroic and Skorpyron Mythic on Feb 5th, and, most recently, killed Mythic Trilliax on 26th February</p>
- <p><a href="archive.php" class="button big" style="margin-left:33%;"><b>News Archive</b></a></p>
+ <p><a href="archive.php" class="button big" style="margin-left:auto;">News Archive</a></p>
 									<div class="features">
 										<section>
 											<span class="icon major fa-calendar"></span>
@@ -139,14 +139,14 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 														<h3>Guild Values</h3>
 														<p>Our guild values are explained in the Guild Charter, this expains
 															in detail what we are about and what to expect from the guild. Please give it a read before you apply!</p>
-															<a href="http://endeavour.ml/charter.php" class="button big" style="margin: auto;">Guild Charter</a></p>
+															<a href="http://endeavour.ml/charter.php" class="button big" style="margin: 33%;">Guild Charter</a></p>
 														</section>
 														<section>
 															<span class="icon major fa-snowflake-o"></span>
 															<h3>Be Yourself!</h3>
 															<p>Be active, friendly and remember to have fun, and we're sure you'll
 																fit right in. Members start as a Trial, and we'll promote you to Raider after we test your worth in battle!</p>
-														</p><a href="roster.php" class="button big" style="margin-left:auto">Guild Roster</a></p>
+														</p><a href="roster.php" class="button big" style="margin-left:33%">Guild Roster</a></p>
 													</section>
 												</div>
 											</div>
