@@ -60,7 +60,7 @@
 									</section>
 
 					<section>
-						<a href="xavmy.html" class="image"><img src="images/xavmy.jpg" alt="" data-position="top center" /></a>
+						<a href="xavmy.php" class="image"><img src="images/xavmy.jpg" alt="" data-position="top center" /></a>
 						<div class="content">
 							<div class="inner">
 								<h2>7/7 Mythic!</h2>
