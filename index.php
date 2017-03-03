@@ -146,7 +146,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 															<h3>Be Yourself!</h3>
 															<p>Be active, friendly and remember to have fun, and we're sure you'll
 																fit right in. Members start as a Trial, and we'll promote you to Raider after we test your worth in battle!</p>
-														</p><a href="roster.html" class="button big" style="margin-left:25%;">Guild Roster</a></p>
+														</p><a href="roster.html" class="button big" style="margin-left:33%;">Guild Roster</a></p>
 													</section>
 												</div>
 											</div>
