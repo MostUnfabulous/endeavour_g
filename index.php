@@ -42,6 +42,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 		<!-- Intro -->
 		<section id="intro" class="wrapper style0 fullscreen fade-up">
 			<div class="inner">
+				<img src="images/logo.png">
 				<h1>ENDEAVOUR</h1>
 				<p>A chilled out semi-hardcore raiding guild on Magtheridon-EU.
 				</br>Currently recruiting awesome, like-minded players for Mythic progression.
@@ -131,8 +132,7 @@ before we high-tailed it out of there to face Xavius!</p>
 
 <p>We offer a unique raiding experience - we're a very close-knit, chilled out guild, and while we're definitely serious
  about progression, we want everyone to have fun and enjoy their time playing. Everyone is welcome (and encouraged!) to speak on Discord, we value the input of EVERY player, and we want everyone to join in on the fun. </p>
-
-<p>If you've got any questions, please don't hesitate to contact one of us in-game - Folez, Articon, Ereos, Joicy and Shammande will be happy to talk.</p>
+<p>If you've got any questions, please don't hesitate to contact one of us in-game - Joicy, Articon, Xerphon and Shammande will be happy to talk.</p>
 									<div class="features">
 										<section>
 											<span class="icon major fa-calendar"></span>
@@ -217,7 +217,6 @@ before we high-tailed it out of there to face Xavius!</p>
 													</form>
 												</section>
 												</section>
-
 											<?php include("footer.php"); ?>
 
 								<!-- Scripts -->
