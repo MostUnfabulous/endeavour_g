@@ -18,12 +18,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a href="index.html" class="title">Endeavour</a>
-				<nav>
-					<ul>
-						<li><a href="index.html">Home</a></li>
-					</ul>
-				</nav>
+				<a href="index.php" class="title">ENDEAVOUR</a>
 			</header>
 
 		<!-- Wrapper -->
@@ -40,20 +35,7 @@
 			</div>
 
 		<!-- Footer -->
-		<section id="five" class="wrapper style2 fade-up">
-			<div class="inner">
-				<ul class="menu">
-								<li>&copy;2016-2017 Endeavour. All rights reserved.</li></li>
-				<ul class="icons">
-<li><a href="https://www.twitch.tv/enmythic" class="fa-twitch"><span class="label">Twitch</span></a></li>
-<li><a href="https://www.youtube.com/channel/UCPW3evL1Xsm367pFJ1AHSUw" class="fa-youtube-play"><span class="label">Youtube</span></a></li>
-<li><a href="https://discord.gg/VmVDjva" class="fa-gamepad"><span class="label">Discord</span></a></li>
-<li><a href="mailto:contact@endeavour.ml" class="fa-comment"><span class="label">Contact</span></a></li>
-
-</ul>
-			</div>
-		</section>
-
+<?php include("footer.php"); ?>
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrollex.min.js"></script>
