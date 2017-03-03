@@ -105,7 +105,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 						<img class="spec dk" src="assets\css\images\frostdk.jpg" alt="Paris"/>
 						<h3>Llusty</h3>
 						<ul class="icons">
-							<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Llusty/advanced" class="fa-search"><span class="label">Armory</span></a></li>							<li><a href="https://www.warcraftlogs.com/rankings/character/15824710/10/" class="fa-bar-chart "><span class="label">Logs</span></a></li>
+							<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Llusty/advanced" class="fa-search"><span class="label">Armory</span></a></li>					
 							<li><a href="https://www.warcraftlogs.com/rankings/character/6507121/latest/" class="fa-bar-chart "><span class="label">Logs</span></a></li>
 						</ul>
 					</div>
