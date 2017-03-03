@@ -56,8 +56,21 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 	<!-- One -->
 	<section id="news" class="wrapper style2 spotlights">
 
+
+
 		<section>
-			<a href="skorpmy.html" class="image"><img src="images/skorpmy.jpg" alt="" data-position="top center" /></a>
+			<a href="trilpmy.php" class="image"><img src="images/trilmy.jpg" alt="" data-position="top center" /></a>
+			<div class="content">
+				<div class="inner">
+					<h2>Get Stuffed Trilliax</h2>
+					<h4>5th February</h4>
+					<p>Ain't no lie, an Energised Endeavour annihilates a crummy caretaker. This nuisance Nightborn servant seriously took the cake and we served a
+						serious slice of pain. After finally finishing this feast of a boss Endeavour looks to Sterilise the rest of the Nighthold.  <p>
+						</section>
+
+
+		<section>
+			<a href="skorpmy.php" class="image"><img src="images/skorpmy.jpg" alt="" data-position="top center" /></a>
 			<div class="content">
 				<div class="inner">
 					<h2>Endeavour Rinse the Pincer</h2>
@@ -69,7 +82,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 						</section>
 
 		<section>
-			<a href="gulhc.html" class="image"><img src="images/gulhc.jpg" alt="" data-position="top center" /></a>
+			<a href="gulhc.php" class="image"><img src="images/gulhc.jpg" alt="" data-position="top center" /></a>
 			<div class="content">
 				<div class="inner">
 					<h2>Goodnight, Gul'dan</h2>
@@ -78,61 +91,21 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 						in no time and finally felled the ferocious fel-lord. See you in Mythic!<p>
 						</section>
 
-		<section>
-			<a href="xavmy.html" class="image"><img src="images/xavmy.jpg" alt="" data-position="top center" /></a>
-			<div class="content">
-				<div class="inner">
-					<h2>7/7 Mythic!</h2>
-					<h4>10th January</h4>
-					<p>Endeavour went into the Dream,</br>
-To end Xavey's nefarious scheme.</br>
-We fought dragon and bear,</br>
-And cleansed the Nightmare</br>
-Thanks to our awesome raid team!</p>
-					</div>
-				</div>
-			</section>
 
-		<section>
-			<a href="images/cenmy.jpg" class="image"><img src="images/cenmy.jpg" alt="" data-position="top center" /></a>
-			<div class="content">
-				<div class="inner">
-					<h2>Endeavour Bag the Stag</h2>
-					<h4>10th January</h4>
-					<p>
-Looks like we stepped up our game! After wiping fur a while, we upped our elk and raised the steaks - this evening,
-Endeavour bucked up the courage to grab Cenarius by the antlers and turn him into venison,
-before we high-tailed it out of there to face Xavius!</p>
-					</div>
-				</div>
-			</section>
-
-		<section>
-			<a href="images/ilgmy.jpg" class="image"><img src="images/ilgmy.jpg" alt="" data-position="top center" /></a>
-			<div class="content">
-				<div class="inner">
-					<h2>Endeavour See Eye-to-Eye with Il'gynoth</h2>
-					<h4>8th January</h4>
-					<p>What a spectacular sight to behold! Thanks to our fine and fervent focus, today Endeavour stared down the Evil Eye and obliterated
-						the oversized optical orifice - on only our fifth attempt! After a slippery skirmish of slime and steel,
-						we truncated its tremendous tentacles and eradicated the evil eyeball, slithering to a satisfying success.</p>
-					</div>
-				</div>
-			</section>
-
-						</section>
 
 						<!-- Two -->
 						<section id="about" class="wrapper style3 fade-up">
 							<div class="inner">
 								<h2>About Us</h2>
-								<p>Endeavour formed at the start of Legion, comprised mostly of veteran players - most of us have been raiding since Classic -
-									and since then, we've rapidly progressed through all raid difficulties. We achieved 7/7M on Jan 10th - killing Mythic Il'gynoth,
-									Cenarius and Xavius in just 3 days, thanks to the effort and perseverance of our awesome raid team.</p>
+								<p>Endeavour formed at the start of Legion, comprised mostly of veteran players - most of us have been raiding since Classic - and since then,
+									 we've rapidly progressed through all raid difficulties. We achieved 7/7M on Jan 10th
+									 - killing Mythic Il'gynoth, Cenarius and Xavius in just 3 days, thanks to the effort and perseverance of our awesome raid team</p>
 
 <p>We offer a unique raiding experience - we're a very close-knit, chilled out guild, and while we're definitely serious
- about progression, we want everyone to have fun and enjoy their time playing. Everyone is welcome (and encouraged!) to speak on Discord, we value the input of EVERY player, and we want everyone to join in on the fun. </p>
-<p>If you've got any questions, please don't hesitate to contact one of us in-game - Joicy, Articon, Xerphon and Shammande will be happy to talk.</p>
+ about progression, we want everyone to have fun and enjoy their time playing. Everyone is welcome (and encouraged!) to speak on Discord, we value the input of EVERY player, and we want everyone to join in on the fun.
+  If you've got any questions, please don't hesitate to contact one of us in-game - Joicy, Articon, Xerphon and Shammande will be happy to talk.</p>
+	<a href="archive.html" class="button big" style="margin-left:25%;">Endeavour Archive</a>
+ <p>We are currently 3/10M, killing both Gul'dan Heroic and Skorpyron Mythic on Feb 5th, and, most recently, killed Mythic Trilliax on 26th February</p>
 									<div class="features">
 										<section>
 											<span class="icon major fa-calendar"></span>
@@ -207,7 +180,7 @@ before we high-tailed it out of there to face Xavius!</p>
 																<textarea name="exp" id="exp" rows="3" required></textarea>
 															</div>
 															<div class="field">
-																<label for="exp"></br>Anything else you'd like to add?</label>
+																<label for="exp"></br>Battle.net tag and anything else you'd like to add!</label>
 																<textarea name="other" id="other" rows="3"></textarea>
 															</div>
 														</div>
