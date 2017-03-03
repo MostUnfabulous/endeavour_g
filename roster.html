@@ -20,7 +20,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 
 	<header id="header">
-		<a href="index.html" class="title">ENDEAVOUR</a>
+		<a href="index.php" class="title">ENDEAVOUR</a>
 		</header>
 
 		<!-- Wrapper -->
