@@ -19,7 +19,7 @@
 		<!-- Header -->
 			<header id="header">
 				<a href="index.html" class="title">ENDEAVOUR</a>
-			
+
 			</header>
 
 		<!-- Wrapper -->
@@ -27,7 +27,7 @@
 				<section id="news" class="wrapper style2 spotlights">
 
 					<section>
-						<a href="trilpmy.php" class="image"><img src="images/trilmy.jpg" alt="" data-position="top center" /></a>
+						<a href="trilmy.php" class="image"><img src="images/trilmy.jpg" alt="" data-position="top center" /></a>
 						<div class="content">
 							<div class="inner">
 								<h2>Get Stuffed Trilliax</h2>
