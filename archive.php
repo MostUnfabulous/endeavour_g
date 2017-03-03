@@ -135,7 +135,7 @@
 										</div>
 									</div>
 								</section>
-							</section>
+	
 
 							<section>
 								<a href="images/elmymy.jpg" class="image"><img src="images/elmy.jpg" alt="" data-position="top center" /></a>
@@ -144,7 +144,7 @@
 										<h2>Elerethe Down, Nearly Ursoc Too!</h2>
 										<h4>30th November</h4>
 										<p>Thanks to the huge effort from our fantastic team, tonight we finally killed the Spiderbird -
-											 with enough time to get some solid progression on Ursoc, 
+											 with enough time to get some solid progression on Ursoc,
 											getting him down to 2% (frustratingly). We're sure to get Ursoc down next raid, with time to start progression on dragons!</p>
 											<ul class="actions">
 											</ul>
