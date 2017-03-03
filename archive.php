@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Generic - Hyperspace by HTML5 UP</title>
+		<title>Archive</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -18,12 +18,10 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a href="index.html" class="title">Hyperspace</a>
+				<a href="index.html" class="title">Archive</a>
 				<nav>
 					<ul>
-						<li><a href="index.html">Home</a></li>
-						<li><a href="generic.html" class="active">Generic</a></li>
-						<li><a href="elements.html">Elements</a></li>
+						<li><a href="index.html">ENDEAVOUR</a></li>
 					</ul>
 				</nav>
 			</header>
@@ -32,6 +30,38 @@
 
 				<section id="news" class="wrapper style2 spotlights">
 
+					<section>
+						<a href="trilpmy.php" class="image"><img src="images/trilmy.jpg" alt="" data-position="top center" /></a>
+						<div class="content">
+							<div class="inner">
+								<h2>Get Stuffed Trilliax</h2>
+								<h4>5th February</h4>
+								<p>Ain't no lie, an Energised Endeavour annihilates a crummy caretaker. This nuisance Nightborn servant seriously took the cake and we served a
+									serious slice of pain. After finally finishing this feast of a boss Endeavour looks to Sterilise the rest of the Nighthold.  <p>
+									</section>
+
+
+					<section>
+						<a href="skorpmy.php" class="image"><img src="images/skorpmy.jpg" alt="" data-position="top center" /></a>
+						<div class="content">
+							<div class="inner">
+								<h2>Endeavour Rinse the Pincer</h2>
+								<h4>5th February</h4>
+								<p>We should be proud of ourshellves. Tonight, Endeavour scuttled into Skorpyron's sombre sanctuary
+									and slew the slaughterous subterranean scorpid! There's no claws for concern -
+									in a pinch, we cracked his chitin and severed his stinger, violently vaporizing the venomous villain.
+									 Looks like we nipped this one in the bud!<p>
+									</section>
+
+					<section>
+						<a href="gulhc.php" class="image"><img src="images/gulhc.jpg" alt="" data-position="top center" /></a>
+						<div class="content">
+							<div class="inner">
+								<h2>Goodnight, Gul'dan</h2>
+								<h4>5th February</h4>
+								<p>Tonight, Endeavour eradicated some evil entities and expunged some empowered elves. Easy! We navigated the Nighthold
+									in no time and finally felled the ferocious fel-lord. See you in Mythic!<p>
+									</section>
 
 					<section>
 						<a href="xavmy.html" class="image"><img src="images/xavmy.jpg" alt="" data-position="top center" /></a>
@@ -40,10 +70,10 @@
 								<h2>7/7 Mythic!</h2>
 								<h4>10th January</h4>
 								<p>Endeavour went into the Dream,</br>
-				To end Xavey's nefarious scheme.</br>
-				We fought dragon and bear,</br>
-				And cleansed the Nightmare</br>
-				Thanks to our awesome raid team!</p>
+			To end Xavey's nefarious scheme.</br>
+			We fought dragon and bear,</br>
+			And cleansed the Nightmare</br>
+			Thanks to our awesome raid team!</p>
 								</div>
 							</div>
 						</section>
@@ -55,13 +85,12 @@
 								<h2>Endeavour Bag the Stag</h2>
 								<h4>10th January</h4>
 								<p>
-				Looks like we stepped up our game! After wiping fur a while, we upped our elk and raised the steaks - this evening,
-				Endeavour bucked up the courage to grab Cenarius by the antlers and turn him into venison,
-				before we high-tailed it out of there to face Xavius!</p>
+			Looks like we stepped up our game! After wiping fur a while, we upped our elk and raised the steaks - this evening,
+			Endeavour bucked up the courage to grab Cenarius by the antlers and turn him into venison,
+			before we high-tailed it out of there to face Xavius!</p>
 								</div>
 							</div>
 						</section>
-
 
 					<section>
 						<a href="images/ilgmy.jpg" class="image"><img src="images/ilgmy.jpg" alt="" data-position="top center" /></a>
@@ -75,6 +104,7 @@
 								</div>
 							</div>
 						</section>
+
 
 					<section>
 						<a href="images/dragmy.jpg" class="image"><img src="images/dragmy.jpg" alt="" data-position="top center" /></a>
@@ -105,8 +135,53 @@
 										</div>
 									</div>
 								</section>
+							</section>
+
+							<section>
+								<a href="images/elmymy.jpg" class="image"><img src="images/elmy.jpg" alt="" data-position="top center" /></a>
+								<div class="content">
+									<div class="inner">
+										<h2>Elerethe Down, Nearly Ursoc Too!</h2>
+										<h4>30th November</h4>
+										<p>Thanks to the huge effort from our fantastic team, tonight we finally killed the Spiderbird -
+											 with enough time to get some solid progression on Ursoc, 
+											getting him down to 2% (frustratingly). We're sure to get Ursoc down next raid, with time to start progression on dragons!</p>
+											<ul class="actions">
+											</ul>
+										</div>
+									</div>
+								</section>
+
+								<section>
+									<a href="images/nymy.jpg" class="image"><img src="images/nymy.jpg" alt="" data-position="top center" /></a>
+									<div class="content">
+										<div class="inner">
+											<h2>Mythic Madness!</h2>
+											<h4>30th October</h4>
+											<p>Endeavour make its mythic mark and take out Nythendra!</p>
+												<ul class="actions">
+												</ul>
+											</div>
+										</div>
+									</section>
+
+								<section>
+									<a href="images/xavyhc.jpg" class="image"><img src="images/xavhc.jpg" alt="" data-position="top center" /></a>
+									<div class="content">
+										<div class="inner">
+											<h2>Let the (Heroic) Nightmare be Cleansed</h2>
+											<h4>30th October</h4>
+											<p>To no one's surprise, Endeavour took down the almighty Xavius on
+												 Sunday after a perfectly executed attempt. Now the real fight begins - Mythic awaits!</p>
+												<ul class="actions">
+												</ul>
+											</div>
+										</div>
+									</section>
 
 							</section>
+
+
 
 								<?php include("footer.php"); ?>
 
