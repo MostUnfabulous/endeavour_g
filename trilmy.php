@@ -18,7 +18,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a href="index.php" class="title">Endeavour</a>
+				<a href="index.php" class="title">ENDEAVOUR</a>
 			</header>
 
 		<!-- Wrapper -->

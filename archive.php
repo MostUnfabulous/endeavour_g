@@ -31,7 +31,7 @@
 						<div class="content">
 							<div class="inner">
 								<h2>Get Stuffed Trilliax</h2>
-								<h4>5th February</h4>
+								<h4>26th February</h4>
 								<p>Ain't no lie, an Energised Endeavour annihilates a crummy caretaker. This nuisance Nightborn servant seriously took the cake and we served a
 									serious slice of pain. After finally finishing this feast of a boss Endeavour looks to Sterilise the rest of the Nighthold.  <p>
 									</section>
@@ -138,7 +138,7 @@
 								<div class="content">
 									<div class="inner">
 										<h2>Elerethe Down, Nearly Ursoc Too!</h2>
-										<h4>30th November</h4>
+										<h4>28th November</h4>
 										<p>Thanks to the huge effort from our fantastic team, tonight we finally killed the Spiderbird -
 											 with enough time to get some solid progression on Ursoc,
 											getting him down to 2% (frustratingly). We're sure to get Ursoc down next raid, with time to start progression on dragons!</p>
@@ -153,7 +153,7 @@
 									<div class="content">
 										<div class="inner">
 											<h2>Mythic Madness!</h2>
-											<h4>30th October</h4>
+											<h4>14th November</h4>
 											<p>Endeavour make its mythic mark and take out Nythendra!</p>
 												<ul class="actions">
 												</ul>

@@ -18,12 +18,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a href="index.php" class="title">Endeavour</a>
-				<nav>
-					<ul>
-						<li><a href="index.php">Home</a></li>
-					</ul>
-				</nav>
+				<a href="index.php" class="title">ENDEAVOUR</a>
 			</header>
 
 		<!-- Wrapper -->
