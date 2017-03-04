@@ -28,8 +28,8 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 					<li><a href="#intro">Welcome</a></li>
 					<li><a href="#news">News</a></li>
 					<li><a href="#about">About Us</a></li>
-					<li><a href="#apply">Apply Now!</a></li></ul>
-					<ul><li><a href="roster.php">Roster</a></li>
+					<li><a href="#apply">Apply Now!</a></li>
+					<li><a href="roster.php">Roster</a></li>
 					<li><a href="charter.php">Charter</a></li>
 				</ul>
 			</nav>
