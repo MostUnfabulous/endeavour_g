@@ -14,6 +14,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 	<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	<link rel="stylesheet" href="assets\fonts\fontawesome\css\font-awesome.min.css">
+	<link rel="icon" type="image/png" href="images/logo.png">
 
 	<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
 </head>
@@ -27,8 +28,9 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 					<li><a href="#intro">Welcome</a></li>
 					<li><a href="#news">News</a></li>
 					<li><a href="#about">About Us</a></li>
-					<li><a href="#apply">Apply Now!</a></li>
-					<li><a href="roster.php">Roster</a></li>
+					<li><a href="#apply">Apply Now!</a></li></ul>
+					<ul><li><a href="roster.php">Roster</a></li>
+					<li><a href="charter.php">Charter</a></li>
 				</ul>
 			</nav>
 		</div>
@@ -139,7 +141,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 														<h3>Guild Values</h3>
 														<p>Our guild values are explained in the Guild Charter, this expains
 															in detail what we are about and what to expect from the guild. Please give it a read before you apply!</p>
-															<a href="http://endeavour.ml/charter.php" class="button big" style="margin-left: 33%;">Guild Charter</a></p>
+														</p><a href="http://endeavour.ml/charter.php" class="button big" style="margin-left: 33%;">Guild Charter</a></p>
 														</section>
 														<section>
 															<span class="icon major fa-snowflake-o"></span>

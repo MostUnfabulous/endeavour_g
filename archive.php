@@ -11,6 +11,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" type="image/png" href="images/logo.png">
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	</head>
@@ -35,6 +36,24 @@
 								<p>Ain't no lie, an Energised Endeavour annihilates a crummy caretaker. This nuisance Nightborn servant seriously took the cake and we served a
 									serious slice of pain. After finally finishing this feast of a boss Endeavour looks to Sterilise the rest of the Nighthold.  <p>
 									</section>
+
+									<section>
+										<a href="guarmy.php" class="image"><img src="images/trilmy.jpg" alt="" data-position="top center" /></a>
+										<div class="content">
+											<div class="inner">
+												<h2>Harm the Guarm!</h2>
+												<h4>15th February</h4>
+												<p>Endeavour making headway and taking a breather with Mythic Guarm<p>
+													</section>
+
+													<section>
+														<a href="odynmy.php" class="image"><img src="images/trilmy.jpg" alt="" data-position="top center" /></a>
+														<div class="content">
+															<div class="inner">
+																<h2>Odyn Oh Done!</h2>
+																<h4>13th February</h4>
+																<p>Endeavour ruin the runes vanquish the valourous and trounce the Trial!<p>
+																	</section>
 
 
 					<section>

@@ -13,6 +13,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 	<link rel="stylesheet" href="assets/css/main.css" />
+	<link rel="icon" type="image/png" href="images/logo.png">
 	<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 </head>
@@ -105,7 +106,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 						<img class="spec dk" src="assets\css\images\frostdk.jpg" alt="Paris"/>
 						<h3>Llusty</h3>
 						<ul class="icons">
-							<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Llusty/advanced" class="fa-search"><span class="label">Armory</span></a></li>					
+							<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Llusty/advanced" class="fa-search"><span class="label">Armory</span></a></li>
 							<li><a href="https://www.warcraftlogs.com/rankings/character/6507121/latest/" class="fa-bar-chart "><span class="label">Logs</span></a></li>
 						</ul>
 					</div>
