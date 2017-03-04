@@ -67,8 +67,17 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 					<h2>Get Stuffed Trilliax</h2>
 					<h4>26th February</h4>
 					<p>Ain't no lie, an Energised Endeavour annihilates a crummy caretaker. This nuisance Nightborn servant seriously took the cake and we served a
-						serious slice of pain. After finally finishing this feast of a boss Endeavour looks to Sterilise the rest of the Nighthold.  <p>
+						serious slice of pain. After finally finishing this feast of a boss Endeavour looks to Sterilise the rest of the Nighthold.<p>
 						</section>
+
+						<section>
+							<a href="anomy.php" class="image"><img src="images/anomy.jpg" alt="" data-position="top center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Anomaly runs out of time!</h2>
+									<h4>25th February</h4>
+									<p>Anomaly runs out of time!<p>
+										</section>
 
 
 		<section>
@@ -104,10 +113,6 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 								<p>Endeavour formed at the start of Legion, comprised mostly of veteran players - most of us have been raiding since Classic - and since then,
 									 we've rapidly progressed through all raid difficulties. We achieved 7/7M on Jan 10th
 									 - killing Mythic Il'gynoth, Cenarius and Xavius in just 3 days, thanks to the effort and perseverance of our awesome raid team</p>
-
-<p>We offer a unique raiding experience - we're a very close-knit, chilled out guild, and while we're definitely serious
- about progression, we want everyone to have fun and enjoy their time playing. Everyone is welcome (and encouraged!) to speak on Discord, we value the input of EVERY player, and we want everyone to join in on the fun.
-  If you've got any questions, please don't hesitate to contact one of us in-game - Joicy, Articon, Xerphon and Shammande will be happy to talk.</p>
  <p>We are currently 3/10M, killing both Gul'dan Heroic and Skorpyron Mythic on Feb 5th, and, most recently, killed Mythic Trilliax on 26th February</p>
  <p><a href="archive.php" class="button big" style="margin-left:40%;">News Archive</a></p>
 									<div class="features">

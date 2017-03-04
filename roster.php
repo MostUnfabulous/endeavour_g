@@ -336,9 +336,8 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 											<ul class="icons">
 												<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Articon/advanced" class="fa-search"><span class="label">Armory</span></a></li>
 												<li><a href="https://www.warcraftlogs.com/rankings/character/3626114/latest/" class="fa-bar-chart"><span class="label">Logs</span></a></li>
-												<li><a href="https://www.twitch.tv/mostunfaulous" class="fa-twitch"><span class="label">Twitch</span></a></li>
+												<li><a href="https://www.twitch.tv/mostunfabulous" class="fa-twitch"><span class="label">Twitch</span></a></li>
 												<li><a href="https://www.youtube.com/channel/UCPW3evL1Xsm367pFJ1AHSUw" class="fa-youtube-play"><span class="label">Facebook</span></a></li>
-												<li><a href="https://www.warcraftlogs.com/rankings/character/3626114/latest/" class="fa-bar-chart "><span class="label">Twitch</span></a></li>
 											</ul>
 										</div>
 									</div>
@@ -368,7 +367,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 							<div class="col-xs-12 col-sm-6 col-md-4">
 								<div class="panel mage">
 									<div class="col-xs-3">
-										<img class="portrait mage" src="http://render-eu.worldofwarcraft.com/character/magtheridon/203/117080011-avatar.jpg" alt="Paris" />
+										<img class="portrait mage" src="http://render-eu.worldofwarcraft.com/character/magtheridon/46/134670638-avatar.jpg" alt="Paris" />
 									</div>
 									<div class="col-xs-9">
 										<div class="panelinfo">
@@ -386,7 +385,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 							<div class="col-xs-12 col-sm-6 col-md-4">
 								<div class="panel warlock">
 									<div class="col-xs-3">
-										<img class="portrait warlock" src="http://render-eu.worldofwarcraft.com/character/magtheridon/46/134670638-avatar.jpg" alt="Paris" />
+										<img class="portrait warlock" src="http://render-eu.worldofwarcraft.com/character/magtheridon/203/117080011-avatar.jpg" alt="Paris" />
 									</div>
 									<div class="col-xs-9">
 										<div class="panelinfo">

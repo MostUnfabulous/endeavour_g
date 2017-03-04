@@ -29,7 +29,7 @@
 						<div class="inner">
 							<h1 class="major">Harm the Guarm!</h1>
 							<h2>15th February 2017</h2>
-							<span class="image fit"><img src="images/trilmy.jpg" alt="" /></span>
+							<span class="image fit"><img src="images/guarmy.jpg" alt="" /></span>
 					</section>
 
 			</div>

@@ -28,17 +28,26 @@
 				<section id="news" class="wrapper style2 spotlights">
 
 					<section style="padding-top:4.45em">
-						<a href="trilmy.php" class="image"><img src="images/trilmy.jpg" alt="" data-position="top center" /></a>
+						<a href="trilmy.php" class="image"><img src="images/trilmy.jpg" alt="" data-position="top center"/></a>
 						<div class="content">
 							<div class="inner">
 								<h2>Get Stuffed Trilliax</h2>
 								<h4>26th February</h4>
 								<p>Ain't no lie, an Energised Endeavour annihilates a crummy caretaker. This nuisance Nightborn servant seriously took the cake and we served a
-									serious slice of pain. After finally finishing this feast of a boss Endeavour looks to Sterilise the rest of the Nighthold.  <p>
+									serious slice of pain. After finally finishing this feast of a boss Endeavour looks to Sterilise the rest of the Nighthold.<p>
 									</section>
 
 									<section>
-										<a href="guarmy.php" class="image"><img src="images/trilmy.jpg" alt="" data-position="top center" /></a>
+										<a href="anomy.php" class="image"><img src="images/anomy.jpg" alt="" data-position="top center" /></a>
+										<div class="content">
+											<div class="inner">
+												<h2>Anomaly runs out of time!</h2>
+												<h4>25th February</h4>
+												<p>Anomaly runs out of time!<p>
+													</section>
+
+									<section>
+										<a href="guarmy.php" class="image"><img src="images/guarmy.jpg" alt="" data-position="top center" /></a>
 										<div class="content">
 											<div class="inner">
 												<h2>Harm the Guarm!</h2>
@@ -47,7 +56,7 @@
 													</section>
 
 													<section>
-														<a href="odynmy.php" class="image"><img src="images/trilmy.jpg" alt="" data-position="top center" /></a>
+														<a href="odynmy.php" class="image"><img src="images/odynmy.jpg" alt="" data-position="top center" /></a>
 														<div class="content">
 															<div class="inner">
 																<h2>Odyn Oh Done!</h2>
@@ -77,6 +86,17 @@
 								<p>Tonight, Endeavour eradicated some evil entities and expunged some empowered elves. Easy! We navigated the Nighthold
 									in no time and finally felled the ferocious fel-lord. See you in Mythic!<p>
 									</section>
+
+									<section>
+										<a href="helyahc.php" class="image"><img src="images/helyahc.jpg" alt="" data-position="top center" /></a>
+										<div class="content">
+											<div class="inner">
+												<h2>Helya Heroic!</h2>
+												<h4>13th January</h4>
+												<p>Endeavour give Hellhiem hell and kill Heyla herself</p>
+												</div>
+											</div>
+										</section>
 
 					<section>
 						<a href="xavmy.php" class="image"><img src="images/xavmy.jpg" alt="" data-position="top center" /></a>
@@ -134,6 +154,32 @@
 							</div>
 						</section>
 
+						<section>
+							<a href="images/guarmhc.jpg" class="image"><img src="images/guarmhc.jpg" alt="" data-position="top center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Guarm Gone!</h2>
+									<h4>12th December</h4>
+									<p>Heroic Guarm down!</p>
+										<ul class="actions">
+										</ul>
+									</div>
+								</div>
+							</section>
+
+							<section>
+								<a href="images/guarmhc.jpg" class="image"><img src="images/guarmhc.jpg" alt="" data-position="top center" /></a>
+								<div class="content">
+									<div class="inner">
+										<h2>Heroic Odyn</h2>
+										<h4>12th December</h4>
+										<p>Endeavour takes down Heroic Odyn!</p>
+											<ul class="actions">
+											</ul>
+										</div>
+									</div>
+								</section>
+
 
 
 							<section>
@@ -187,14 +233,105 @@
 											<h2>Let the (Heroic) Nightmare be Cleansed</h2>
 											<h4>30th October</h4>
 											<p>To no one's surprise, Endeavour took down the almighty Xavius on
-												 Sunday after a perfectly executed attempt. Now the real fight begins - Mythic awaits!</p>
+												 Sunday after a perfectly executed attempt. </br>Now the real fight begins - Mythic awaits!</p>
 												<ul class="actions">
 												</ul>
 											</div>
 										</div>
 									</section>
 
-							</section>
+									<section>
+										<a href="images/cenyhc.jpg" class="image"><img src="images/cenhc.jpg" alt="" data-position="top center" /></a>
+										<div class="content">
+											<div class="inner">
+												<h2>Heroic Cenarius</h2>
+												<h4>25th October</h4>
+												<p>Boss after boss falls in quick succession as endeavour takes down Heroic Cenarius!</p>
+													<ul class="actions">
+													</ul>
+												</div>
+											</div>
+										</section>
+
+										<section>
+											<a href="images/ilghc.jpg" class="image"><img src="images/ilghc.jpg" alt="" data-position="top center" /></a>
+											<div class="content">
+												<div class="inner">
+													<h2>Heartbreaker!</h2>
+													<h4>24th October</h4>
+													<p>The Heart of Corruption is taken down as Endeavour beats Il’gynoth Heroic.</p>
+														<ul class="actions">
+														</ul>
+													</div>
+												</div>
+											</section>
+
+											<section>
+												<a href="images/elehc.jpg" class="image"><img src="images/elehc.jpg" alt="" data-position="top center" /></a>
+												<div class="content">
+													<div class="inner">
+														<h2>Spiderbird is the word!</h2>
+														<h4>24th October</h4>
+														<p>Heroic Elerethe is taken down!
+														</br>Don’t you know about Spiderbird?</p>
+															<ul class="actions">
+															</ul>
+														</div>
+													</div>
+												</section>
+
+												<section>
+													<a href="images/draghc.jpg" class="image"><img src="images/draghc.jpg" alt="" data-position="top center" /></a>
+													<div class="content">
+														<div class="inner">
+															<h2>Double Dragon</h2>
+															<h4>20th October</h4>
+															<p>Endeavour takes down another boss, putting Heroic Nightmare Dragons to rest.</p>
+																<ul class="actions">
+																</ul>
+															</div>
+														</div>
+													</section>
+
+													<section>
+														<a href="images/urshc.jpg" class="image"><img src="images/urshc.jpg" alt="" data-position="top center" /></a>
+														<div class="content">
+															<div class="inner">
+																<h2>Ursocca be kiddin’ me!</h2>
+																<h4>9th October</h4>
+																<p>Tonight we took down the bear. Ursoc is down on HC.</p>
+																	<ul class="actions">
+																	</ul>
+																</div>
+															</div>
+														</section>
+
+													<section>
+														<a href="images/nyhc.jpg" class="image"><img src="images/nyhc.jpg" alt="" data-position="top center" /></a>
+														<div class="content">
+															<div class="inner">
+																<h2>Nythendra HC is Down!</h2>
+																<h4>2nd October</h4>
+																<p>After several encounters of the bug kind Endeavour gets its first HC kill of the insect dragon!</p>
+																	<ul class="actions">
+																	</ul>
+																</div>
+															</div>
+														</section>
+
+														<section>
+															<a href="images/xavhc.jpg" class="image"><img src="images/xavhc.jpg" alt="" data-position="top center"/></a>
+															<div class="content">
+																<div class="inner">
+																	<h2>Nightmare Normal Defeated!</h2>
+																	<h4>26th September</h4>
+																	<p>Endeavour finishes its first week of raiding ever with an Emerald Nightmare Normal Clear. </br>On to HC!</p>
+																		<ul class="actions">
+																		</ul>
+																	</div>
+																</div>
+															</section>
+													</section>
 
 
 
