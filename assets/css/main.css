@@ -3551,8 +3551,11 @@ background-color: rgba(94, 66, 166,0.5)
 		display: flex;
 		background-color: #5e42a6;
 		cursor: default;
+		opacity: 0.95;
 		padding: 0.75em 2em;
+		width:100%;
 		position: fixed;
+		z-index: 1;
 	}
 
 		#header > .title {
