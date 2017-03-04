@@ -26,7 +26,7 @@
 			<div id="wrapper">
 
 				<!-- Main -->
-					<section id="main" class="wrapper">
+					<section id="main" class="wrapper" style="padding-top:4.45em">
 						<div class="inner">
 							<h1 class="major">Goodnight, Gul'dan</h1>
 							<h2>5th January 2017</h2>

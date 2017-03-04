@@ -26,7 +26,7 @@
 			<div id="wrapper">
 
 				<!-- Main -->
-					<section id="main" class="wrapper">
+					<section id="main" class="wrapper" style="padding-top:4.45em">
 						<div class="inner">
 							<h1 class="">Application Received!</h1>
 							<p>Thanks for taking the time to apply to Endeavour! We'll try to get back to you in-game or via email within 48 hours. If you need to message us before then feel free to contact us on Battle.net or email us at <b>contact@endeavour.ml</b></a>

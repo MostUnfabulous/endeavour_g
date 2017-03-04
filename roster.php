@@ -28,7 +28,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 		<div id="wrapper">
 
 			<!-- Main -->
-			<section id="main" class="wrapper">
+			<section id="main" class="wrapper" style="padding-top:4.45em">
 				<div class="inner">
 					<h1 class="major">Roster</h1>
 					<h2>Tanks</h2>

@@ -25,7 +25,7 @@
 			<div id="wrapper">
 
 				<!-- Main -->
-					<section id="main" class="wrapper">
+					<section id="main" class="wrapper" style="padding-top:4.45em">
 						<div class="inner">
 							<h1 class="major">Harm the Guarm!</h1>
 							<h2>15th February 2017</h2>

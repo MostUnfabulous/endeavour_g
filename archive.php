@@ -27,7 +27,7 @@
 
 				<section id="news" class="wrapper style2 spotlights">
 
-					<section style="padding-top:93px">
+					<section style="padding-top:4.45em">
 						<a href="trilmy.php" class="image"><img src="images/trilmy.jpg" alt="" data-position="top center" /></a>
 						<div class="content">
 							<div class="inner">
