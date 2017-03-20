@@ -28,6 +28,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 		<div class="inner">
 			<nav>
 				<ul>
+					<li><a href="#about">Welcome</a></li>
 					<li><a href="#about">About Us</a></li>
 					<li><a href="#news">News</a></li>
 					<li><a href="#roster">Roster</a></li>
@@ -46,12 +47,10 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 		<!-- Intro -->
 		<section id="intro" class="wrapper style0 fullscreen fade-up">
 			<div class="inner">
-				<img src="images/logo.png">
-				<p>Endeavour formed at the start of Legion, comprised mostly of veteran players.</br>
-					We achieved 7/7M on Jan 10th and are currently 3/10M,</br>
-					thanks to the effort and perseverance of our awesome raid team</p>
+				<img src="images/logo.png" style="max-width: 50%">
+				<p>A tight knit semi-hardcore progression guild on the Magtheridon Server</br>
 			<ul class="actions">
-				<li><a href="#about" class="button">Learn More</a></li>
+				<li><a href="#about" class="button scrolly">Learn More</a></li>
 			</ul>
 		</div>
 
@@ -171,8 +170,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 											</br>
 
 												<div class="row">
-<div class="col-xs-offset-2 col-xs-8 	 col-sm-offset-1 col-sm-10 col-md-offset-0 col-md-12 col-lg-12">
-
+<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-12 col-md-offset-1 col-md-10 col-lg-offset-0 col-lg-12">
 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
 															<div class="panel druid">
 															<div class="col-xs-3">
@@ -218,7 +216,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 								<h3>Melee</h3>
 								</br>
 								<div class="row">
-									<div class="col-xs-offset-2 col-xs-8 	 col-sm-offset-1 col-sm-10 col-md-offset-0 col-md-12 col-lg-12">
+									<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-12 col-md-offset-1 col-md-10 col-lg-offset-0 col-lg-12">
 									<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
 										<div class="panel dk">
 											<div class="col-xs-3">
@@ -313,23 +311,6 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 									<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
 										<div class="panel paladin">
 											<div class="col-xs-3">
-							<img class="portrait paladin" src="http://render-eu.worldofwarcraft.com/character/magtheridon/94/141541214-avatar.jpg?alt=wow/static/images/2d/avatar/1-0.jpg" alt="Paris" />				</div>
-											<div class="col-xs-9">
-												<div class="panelinfo">
-													<img class="spec paladin" src="http://wow.zamimg.com/images/wow/icons/large/paladin_retribution.jpg" alt="Paris"/>
-													<h3>Aelmer</h3>
-													<ul class="icons">
-														<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Aelmer/advanced" class="fa-search"><span class="label">Armory</span></a></li>
-														<li><a href="https://www.warcraftlogs.com/rankings/character/20138681/10/" class="fa-bar-chart "><span class="label">Logs</span></a></li>
-													</ul>
-												</div>
-											</div>
-										</div>
-									</div>
-
-									<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
-										<div class="panel paladin">
-											<div class="col-xs-3">
 												<img class="portrait paladin" src="http://render-eu.worldofwarcraft.com/character/magtheridon/33/141072161-avatar.jpg" alt="Paris" />
 											</div>
 											<div class="col-xs-9">
@@ -389,7 +370,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 								</br>
 								<div class="row">
 
-							<div class="col-xs-offset-2 col-xs-8 	 col-sm-offset-1 col-sm-10 col-md-offset-0 col-md-12 col-lg-12">
+							<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-12 col-md-offset-1 col-md-10 col-lg-offset-0 col-lg-12">
 								<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
 									<div class="panel priest">
 										<div class="col-xs-3">
@@ -471,7 +452,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 							<h3>Ranged</h3>
 						</br>
 							<div class="row">
-					<div class="col-xs-offset-2 col-xs-8 	 col-sm-offset-1 col-sm-10 col-md-offset-0 col-md-12 col-lg-12">
+					<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-12 col-md-offset-1 col-md-10 col-lg-offset-0 col-lg-12">
 								<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
 									<div class="panel mage">
 										<div class="col-xs-3">
@@ -510,6 +491,24 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 			</div>
 	</div>
 
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+		<div class="panel priest">
+			<div class="col-xs-3">
+				<img class="portrait priest" src="http://render-eu.worldofwarcraft.com/character/magtheridon/20/117309972-avatar.jpg" alt="Paris" />
+			</div>
+			<div class="col-xs-9">
+				<div class="panelinfo">
+					<img class="spec priest" src="http://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowwordpain.jpg" alt="Paris"/>
+					<h3>Vindicated</h3>
+					<ul class="icons">
+						<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Vindicated/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+						<li><a href="https://www.warcraftlogs.com/rankings/character/12398033/latest/" class="fa-bar-chart"><span class="label">Logs</span></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+</div>
+
 
 
 								<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
@@ -530,7 +529,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 									</div>
 								</div>
 
-								<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
 									<div class="panel warlock">
 										<div class="col-xs-3">
 											<img class="portrait warlock" src="http://render-eu.worldofwarcraft.com/character/magtheridon/203/117080011-avatar.jpg" alt="Paris" />

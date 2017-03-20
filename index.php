@@ -10,11 +10,14 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
 	<link rel="stylesheet" href="assets/css/main.css" />
 	<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	<link rel="stylesheet" href="assets\fonts\fontawesome\css\font-awesome.min.css">
 	<link rel="icon" type="image/png" href="images/logo.png">
+
 
 	<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
 </head>
@@ -29,7 +32,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 					<li><a href="#news">News</a></li>
 					<li><a href="#about">About Us</a></li>
 					<li><a href="#apply">Apply Now!</a></li>
-					<li><a href="roster.php">Roster</a></li>
+					<li><a href="#roster">Roster</a></li>
 					<li><a href="charter.php">Charter</a></li>
 				</ul>
 			</nav>
@@ -158,6 +161,214 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 												</div>
 											</div>
 										</section>
+
+										<section id="roster" class="wrapper style4 fade-up">
+											<div class="inner">
+												<h2>Tanks</h2>
+
+												<div class="row">
+
+													<div class="col-xs-12 col-sm-6 col-md-4">
+														<div class="panel druid">
+															<div class="col-xs-3">
+																<img class="portrait druid" src="http://render-eu.worldofwarcraft.com/character/magtheridon/73/129391433-avatar.jpg" alt="Paris" />
+															</div>
+															<div class="col-xs-9">
+																<div class="panelinfo">
+																	<img class="spec druid" src="assets\css\images\beardruid.jpg" alt="Paris"/>
+																	<h3>Samuéllo</h3>
+																	<ul class="icons">
+																		<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Samuéllo/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+																		<li><a href="https://www.warcraftlogs.com/rankings/character/14441742/latest" class="fa-bar-chart "><span class="label">Logs</span></a></li>
+																	</ul>
+																</div>
+															</div>
+														</div>
+													</div>
+															<div class="col-xs-12 col-sm-6 col-md-4">
+														<div class="panel dk">
+															<div class="col-xs-3">
+																<img class="portrait dk" src="http://render-api-eu.worldofwarcraft.com/static-render/eu/magtheridon/163/134253987-avatar.jpg" alt="Paris" />
+															</div>
+															<div class="col-xs-9">
+																<div class="panelinfo">
+																	<img class="spec dk" src="assets\css\images\blooddk.jpg" alt="Paris"/>
+
+																	<h3>Zelly</h3>
+																	<ul class="icons">
+																		<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Zellý/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+																		<li><a href="https://www.warcraftlogs.com/rankings/character/15079780/" class="fa-bar-chart "><span class="label">Logs</span></a></li>
+																	</ul>
+																</div>
+															</div>
+														</div>
+													</div>
+							</div>
+
+							<h2>Melee DPS</h2>
+								<div class="row">
+									<div class="col-xs-12 col-sm-6 col-md-4">
+										<div class="panel dk">
+											<div class="col-xs-3">
+												<img class="portrait dk" src="http://render-eu.worldofwarcraft.com/character/magtheridon/17/138495249-avatar.jpg" alt="Paris" />
+											</div>
+											<div class="col-xs-9">
+												<div class="panelinfo">
+													<img class="spec dk" src="assets\css\images\frostdk.jpg" alt="Paris"/>
+													<h3>Petisdeadgg</h3>
+													<ul class="icons">
+														<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Petisdeadgg/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+														<li><a href="https://www.warcraftlogs.com/rankings/character/15824710/10/" class="fa-bar-chart "><span class="label">Logs</span></a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-xs-12 col-sm-6 col-md-4">
+										<div class="panel dk">
+											<div class="col-xs-3">
+												<img class="portrait dk" src="http://render-api-eu.worldofwarcraft.com/static-render/eu/magtheridon/18/118369298-avatar.jpg" alt="Paris" />
+											</div>
+											<div class="col-xs-9">
+												<div class="panelinfo">
+													<img class="spec dk" src="assets\css\images\frostdk.jpg" alt="Paris"/>
+													<h3>Llusty</h3>
+													<ul class="icons">
+														<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Llusty/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+														<li><a href="https://www.warcraftlogs.com/rankings/character/6507121/latest/" class="fa-bar-chart "><span class="label">Logs</span></a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-xs-12 col-sm-6 col-md-4">
+										<div class="panel dk">
+											<div class="col-xs-3">
+												<img class="portrait dk" src="http://render-eu.worldofwarcraft.com/character/magtheridon/48/139442736-avatar.jpg" alt="Paris" />
+											</div>
+											<div class="col-xs-9">
+												<div class="panelinfo">
+													<img class="spec dk" src="assets\css\images\unholydk.jpg" alt="Paris"/>
+													<h3>Valaari</h3>
+													<ul class="icons">
+														<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Valaari/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+														<li><a href="https://www.warcraftlogs.com/rankings/character/16741504/latest/" class="fa-bar-chart"><span class="label">Logs</span></a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-xs-12 col-sm-6 col-md-4">
+										<div class="panel rogue">
+											<div class="col-xs-3">
+												<img class="portrait rogue" src="http://render-eu.worldofwarcraft.com/character/magtheridon/100/139603812-avatar.jpg" alt="Paris" />
+											</div>
+											<div class="col-xs-9">
+												<div class="panelinfo">
+													<img class="spec rogue" src="assets\css\images\assrogue.jpg" alt="Paris"/>
+													<h3>Callyp</h3>
+													<ul class="icons">
+														<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Callyp/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+														<li><a href="https://www.warcraftlogs.com/rankings/character/16691983/10/" class="fa-bar-chart "><span class="label">Logs</span></a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-xs-12 col-sm-6 col-md-4">
+										<div class="panel rogue">
+											<div class="col-xs-3">
+												<img class="portrait rogue" src="http://render-eu.worldofwarcraft.com/character/magtheridon/91/116480603-avatar.jpg" alt="Paris" />
+											</div>
+											<div class="col-xs-9">
+												<div class="panelinfo">
+													<img class="spec rogue" src="assets\css\images\assrogue.jpg" alt="Paris"/>
+													<h3>Cilena</h3>
+													<ul class="icons">
+														<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Cilena/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+														<li><a href="https://www.warcraftlogs.com/rankings/character/14964503/10/" class="fa-bar-chart"><span class="label">Logs</span></a></li>
+														<li><a href="https://www.twitch.tv/ghostdragons123" class="fa-twitch"><span class="label">Twitch</span></a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-xs-12 col-sm-6 col-md-4">
+										<div class="panel paladin">
+											<div class="col-xs-3">
+							<img class="portrait paladin" src="http://render-eu.worldofwarcraft.com/character/magtheridon/94/141541214-avatar.jpg?alt=wow/static/images/2d/avatar/1-0.jpg" alt="Paris" />				</div>
+											<div class="col-xs-9">
+												<div class="panelinfo">
+													<img class="spec paladin" src="http://wow.zamimg.com/images/wow/icons/large/paladin_retribution.jpg" alt="Paris"/>
+													<h3>Aelmer</h3>
+													<ul class="icons">
+														<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Aelmer/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+														<li><a href="https://www.warcraftlogs.com/rankings/character/20138681/10/" class="fa-bar-chart "><span class="label">Logs</span></a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-xs-12 col-sm-6 col-md-4">
+										<div class="panel paladin">
+											<div class="col-xs-3">
+												<img class="portrait paladin" src="http://render-eu.worldofwarcraft.com/character/magtheridon/33/141072161-avatar.jpg" alt="Paris" />
+											</div>
+											<div class="col-xs-9">
+												<div class="panelinfo">
+													<img class="spec paladin" src="http://wow.zamimg.com/images/wow/icons/large/paladin_retribution.jpg" alt="Paris"/>
+													<h3>Nipperoni</h3>
+													<ul class="icons">
+														<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Nipperoni/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+														<li><a href="https://www.warcraftlogs.com/rankings/character/19968630/10/" class="fa-bar-chart "><span class="label">Logs</span></a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="col-xs-12 col-sm-6 col-md-4">
+										<div class="panel monk">
+											<div class="col-xs-3">
+												<img class="portrait monk" src="http://render-eu.worldofwarcraft.com/character/magtheridon/242/143347442-avatar.jpg?alt=wow/static/images/2d/avatar/7-0.jpg" alt="Paris" />
+											</div>
+											<div class="col-xs-9">
+												<div class="panelinfo">
+													<img class="spec monk" src="assets\css\images\wwmonk.jpg" alt="Paris"/>
+													<h3>Sneyk</h3>
+													<ul class="icons">
+														<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Sneyk/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+														<li><a href="https://www.warcraftlogs.com/rankings/character/22768261/latest"class="fa-bar-chart "><span class="label">Logs</span></a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-xs-12 col-sm-6 col-md-4">
+										<div class="panel druid">
+											<div class="col-xs-3">
+												<img class="portrait druid" src="http://render-eu.worldofwarcraft.com/character/magtheridon/139/143760779-avatar.jpg?alt=wow/static/images/2d/avatar/4-0.jpg" alt="Paris" />
+											</div>
+											<div class="col-xs-9">
+												<div class="panelinfo">
+													<img class="spec druid" src="assets\css\images\feraldruid.jpg" alt="Paris"/>
+													<h3>Kattz</h3>
+													<ul class="icons">
+														<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Kattz/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+														<li><a href="https://www.warcraftlogs.com/rankings/character/22738722/latest/" class="fa-bar-chart "><span class="label">Logs</span></a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+							</div>
+														</section>
 
 										<!-- Three -->
 										<section id="apply" class="wrapper style1 fade-up">
