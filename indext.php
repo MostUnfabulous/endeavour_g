@@ -47,8 +47,10 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 		<!-- Intro -->
 		<section id="intro" class="wrapper style0 fullscreen fade-up">
 			<div class="inner">
-				<img src="images/logo.png" style="max-width: 50%">
-				<p>A tight knit semi-hardcore progression guild on the Magtheridon Server</br>
+				<img src="images/logo.png" style="height: 350px;">
+				<p>A tight knit semi-hardcore progression guild on the Magtheridon Server.</br>
+					We raid Wednesday, Sunday and Monday 20:00-23:00.</br>
+					Click below to learn more about as and apply!</p>
 			<ul class="actions">
 				<li><a href="#about" class="button scrolly">Learn More</a></li>
 			</ul>
@@ -128,7 +130,6 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 									<h2>Anomaly runs out of time!</h2>
 									<h4>25th February</h4>
 									<p>Anomaly runs out of time!<p>
-									<p>Anoooomaaallly ruuuuunsssss ooouuuuut ooffff ttiiiiiiiimmeeeee!<p>
 										</section>
 
 

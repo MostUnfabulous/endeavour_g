@@ -28,11 +28,11 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 		<div class="inner">
 			<nav>
 				<ul>
-					<li><a href="#intro">Welcome</a></li>
-					<li><a href="#news">News</a></li>
+					<li><a href="#about">Welcome</a></li>
 					<li><a href="#about">About Us</a></li>
-					<li><a href="#apply">Apply Now!</a></li>
+					<li><a href="#news">News</a></li>
 					<li><a href="#roster">Roster</a></li>
+					<li><a href="#apply">Apply Now!</a></li>
 					<li><a href="charter.php">Charter</a></li>
 				</ul>
 			</nav>
@@ -47,18 +47,68 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 		<!-- Intro -->
 		<section id="intro" class="wrapper style0 fullscreen fade-up">
 			<div class="inner">
-				<img src="images/logo.png">
-				<h1>ENDEAVOUR</h1>
-				<p>A chilled out semi-hardcore raiding guild on Magtheridon-EU.
-				</br>Currently recruiting awesome, like-minded players for Mythic progression.
-			</br>Scroll down or talk to one of us in-game for more info!</p>
+				<img src="images/logo.png" style="height: 350px;">
+				<p>A tight knit semi-hardcore progression guild on the Magtheridon Server.</br>
+					We raid Wednesday, Sunday and Monday 20:00-23:00.</br>
+					Click below to learn more about as and apply!</p>
 			<ul class="actions">
-				<li><a href="#news" class="button scrolly">Learn More</a></li>
+				<li><a href="#about" class="button scrolly">Learn More</a></li>
 			</ul>
 		</div>
+
 	</section>
 
 	<!-- One -->
+
+	<section id="about" class="wrapper style3 fade-up">
+		<div class="inner">
+			<h2>About Us</h2>
+			<p>We are a <b>small but tightly-knit community</b> of raiders who are dedicated not necessarily to expending large amounts of time on completing content, but instead to make the most out of the little time we have allocated for progression content. As a result, we are very relaxed outside of raids: our community is filled with chilled and incredibly funny people.
+				In raids however, we aim to complete those with the <b>full dedication of raiders</b>, consistency and seriousness, so that we can reach our goal of completing content at the highest level without raiders having to attend extreme amounts of raids every week.<p>
+<a href="charter.php" class="button" style="margin-left:40%;">Guild Charter</a>
+<p>Our guild values are explained in the Guild Charter, this expains in detail what we are about and what to expect from the guild. Please give it a read before you apply!</p>
+				<div class="features">
+					<section>
+						<span class="icon major fa-calendar"></span>
+						<h3>Raid Schedule</h3>
+						<p>Progression raids are on Sunday, Monday and Wednesday, 8PM - 11PM Server time (7PM - 10PM UK time).
+							Raiders should be able to attend all three of these raids each week - but of course we understand that you'll sometimes have other committments.</p>
+						</section>
+						<section>
+							<span class="icon major fa-heart"></span>
+							<h3>Be Prepared!</h3>
+							<p>Raiders must bring a plentiful supply of potions, flasks and buff food to all progression runs. Your gear must be socketed
+								and enchanted with stats most appropriate to your spec.</P>
+							</section>
+							<section>
+								<span class="icon major fa-diamond"></span>
+								<h3>Rags to Riches</h3>
+								<p>We use a loot council to distribute loot in Mythic raids. Each week,
+									 we randomly assign two officers and two raiders to the loot council, and loot is allocated once a fair, unanimous decision is made.
+								</p>
+							</section>
+							<section>
+								<span class="icon major fa-bolt"></span>
+								<h3>Interface Addons</h3>
+								<p>We only ask that our raiders use the latest version of Deadly Boss Mods or BigWigs, Pawn and RCLootCouncil.
+									It's up to you if you want to use additional addons to help enhance your gameplay.</P>
+								</section>
+								<section>
+									<span class="icon major fa-users"></span>
+									<h3>Guild Values</h3>
+									<p>Our guild values are explained in the Guild Charter, this expains
+										in detail what we are about and what to expect from the guild. Please give it a read before you apply!</p>
+									</section>
+									<section>
+										<span class="icon major fa-snowflake-o"></span>
+										<h3>Be Yourself!</h3>
+										<p>Be active, friendly and remember to have fun, and we're sure you'll
+											fit right in. Members start as a Trial, and we'll promote you to Raider after we test your worth in battle!</p>
+								</section>
+							</div>
+						</div>
+					</section>
+
 	<section id="news" class="wrapper style2 spotlights">
 
 
@@ -110,66 +160,20 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 
 						<!-- Two -->
-						<section id="about" class="wrapper style3 fade-up">
-							<div class="inner">
-								<h2>About Us</h2>
-								<p>Endeavour formed at the start of Legion, comprised mostly of veteran players - most of us have been raiding since Classic - and since then,
-									 we've rapidly progressed through all raid difficulties. We achieved 7/7M on Jan 10th
-									 - killing Mythic Il'gynoth, Cenarius and Xavius in just 3 days, thanks to the effort and perseverance of our awesome raid team</p>
- <p>We are currently 3/10M, killing both Gul'dan Heroic and Skorpyron Mythic on Feb 5th, and, most recently, killed Mythic Trilliax on 26th February</p>
- <p><a href="archive.php" class="button big" style="margin-left:40%;">News Archive</a></p>
-									<div class="features">
-										<section>
-											<span class="icon major fa-calendar"></span>
-											<h3>Raid Schedule</h3>
-											<p>Progression raids are on Sunday, Monday and Wednesday, 8PM - 11PM Server time (7PM - 10PM UK time).
-												Raiders should be able to attend all three of these raids each week - but of course we understand that you'll sometimes have other committments.</p>
-											</section>
-											<section>
-												<span class="icon major fa-heart"></span>
-												<h3>Be Prepared!</h3>
-												<p>Raiders must bring a plentiful supply of potions, flasks and buff food to all progression runs. Your gear must be socketed
-													and enchanted with stats most appropriate to your spec.</P>
-												</section>
-												<section>
-													<span class="icon major fa-diamond"></span>
-													<h3>Rags to Riches</h3>
-													<p>We use a loot council to distribute loot in Mythic raids. Each week,
-														 we randomly assign two officers and two raiders to the loot council, and loot is allocated once a fair, unanimous decision is made.
-													</p>
-												</section>
-												<section>
-													<span class="icon major fa-bolt"></span>
-													<h3>Interface Addons</h3>
-													<p>We only ask that our raiders use the latest version of Deadly Boss Mods or BigWigs, Pawn and RCLootCouncil.
-														It's up to you if you want to use additional addons to help enhance your gameplay.</P>
-													</section>
-													<section>
-														<span class="icon major fa-users"></span>
-														<h3>Guild Values</h3>
-														<p>Our guild values are explained in the Guild Charter, this expains
-															in detail what we are about and what to expect from the guild. Please give it a read before you apply!</p>
-														</p><a href="http://endeavour.ml/charter.php" class="button big" style="margin-left: 33%;">Guild Charter</a></p>
-														</section>
-														<section>
-															<span class="icon major fa-snowflake-o"></span>
-															<h3>Be Yourself!</h3>
-															<p>Be active, friendly and remember to have fun, and we're sure you'll
-																fit right in. Members start as a Trial, and we'll promote you to Raider after we test your worth in battle!</p>
-														</p><a href="roster.php" class="button big" style="margin-left:33%">Guild Roster</a></p>
-													</section>
-												</div>
-											</div>
-										</section>
+
 
 										<section id="roster" class="wrapper style4 fade-up">
 											<div class="inner">
-												<h2>Tanks</h2>
+												<h2>Roster</h2>
+
+
+												<h3>Tanks</h3>
+											</br>
 
 												<div class="row">
-
-													<div class="col-xs-12 col-sm-6 col-md-4">
-														<div class="panel druid">
+<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-12 col-md-offset-1 col-md-10 col-lg-offset-0 col-lg-12">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+															<div class="panel druid">
 															<div class="col-xs-3">
 																<img class="portrait druid" src="http://render-eu.worldofwarcraft.com/character/magtheridon/73/129391433-avatar.jpg" alt="Paris" />
 															</div>
@@ -185,8 +189,8 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 															</div>
 														</div>
 													</div>
-															<div class="col-xs-12 col-sm-6 col-md-4">
-														<div class="panel dk">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+												<div class="panel dk">
 															<div class="col-xs-3">
 																<img class="portrait dk" src="http://render-api-eu.worldofwarcraft.com/static-render/eu/magtheridon/163/134253987-avatar.jpg" alt="Paris" />
 															</div>
@@ -204,10 +208,17 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 														</div>
 													</div>
 							</div>
+							</div>
 
-							<h2>Melee DPS</h2>
+						<hr />
+
+							</br>
+
+								<h3>Melee</h3>
+								</br>
 								<div class="row">
-									<div class="col-xs-12 col-sm-6 col-md-4">
+									<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-12 col-md-offset-1 col-md-10 col-lg-offset-0 col-lg-12">
+									<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
 										<div class="panel dk">
 											<div class="col-xs-3">
 												<img class="portrait dk" src="http://render-eu.worldofwarcraft.com/character/magtheridon/17/138495249-avatar.jpg" alt="Paris" />
@@ -225,7 +236,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 										</div>
 									</div>
 
-									<div class="col-xs-12 col-sm-6 col-md-4">
+									<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
 										<div class="panel dk">
 											<div class="col-xs-3">
 												<img class="portrait dk" src="http://render-api-eu.worldofwarcraft.com/static-render/eu/magtheridon/18/118369298-avatar.jpg" alt="Paris" />
@@ -243,7 +254,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 										</div>
 									</div>
 
-									<div class="col-xs-12 col-sm-6 col-md-4">
+									<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
 										<div class="panel dk">
 											<div class="col-xs-3">
 												<img class="portrait dk" src="http://render-eu.worldofwarcraft.com/character/magtheridon/48/139442736-avatar.jpg" alt="Paris" />
@@ -261,7 +272,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 										</div>
 									</div>
 
-									<div class="col-xs-12 col-sm-6 col-md-4">
+									<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
 										<div class="panel rogue">
 											<div class="col-xs-3">
 												<img class="portrait rogue" src="http://render-eu.worldofwarcraft.com/character/magtheridon/100/139603812-avatar.jpg" alt="Paris" />
@@ -279,7 +290,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 										</div>
 									</div>
 
-									<div class="col-xs-12 col-sm-6 col-md-4">
+									<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
 										<div class="panel rogue">
 											<div class="col-xs-3">
 												<img class="portrait rogue" src="http://render-eu.worldofwarcraft.com/character/magtheridon/91/116480603-avatar.jpg" alt="Paris" />
@@ -298,24 +309,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 										</div>
 									</div>
 
-									<div class="col-xs-12 col-sm-6 col-md-4">
-										<div class="panel paladin">
-											<div class="col-xs-3">
-							<img class="portrait paladin" src="http://render-eu.worldofwarcraft.com/character/magtheridon/94/141541214-avatar.jpg?alt=wow/static/images/2d/avatar/1-0.jpg" alt="Paris" />				</div>
-											<div class="col-xs-9">
-												<div class="panelinfo">
-													<img class="spec paladin" src="http://wow.zamimg.com/images/wow/icons/large/paladin_retribution.jpg" alt="Paris"/>
-													<h3>Aelmer</h3>
-													<ul class="icons">
-														<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Aelmer/advanced" class="fa-search"><span class="label">Armory</span></a></li>
-														<li><a href="https://www.warcraftlogs.com/rankings/character/20138681/10/" class="fa-bar-chart "><span class="label">Logs</span></a></li>
-													</ul>
-												</div>
-											</div>
-										</div>
-									</div>
-
-									<div class="col-xs-12 col-sm-6 col-md-4">
+									<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
 										<div class="panel paladin">
 											<div class="col-xs-3">
 												<img class="portrait paladin" src="http://render-eu.worldofwarcraft.com/character/magtheridon/33/141072161-avatar.jpg" alt="Paris" />
@@ -332,7 +326,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 											</div>
 										</div>
 									</div>
-									<div class="col-xs-12 col-sm-6 col-md-4">
+									<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
 										<div class="panel monk">
 											<div class="col-xs-3">
 												<img class="portrait monk" src="http://render-eu.worldofwarcraft.com/character/magtheridon/242/143347442-avatar.jpg?alt=wow/static/images/2d/avatar/7-0.jpg" alt="Paris" />
@@ -350,7 +344,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 										</div>
 									</div>
 
-									<div class="col-xs-12 col-sm-6 col-md-4">
+									<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
 										<div class="panel druid">
 											<div class="col-xs-3">
 												<img class="portrait druid" src="http://render-eu.worldofwarcraft.com/character/magtheridon/139/143760779-avatar.jpg?alt=wow/static/images/2d/avatar/4-0.jpg" alt="Paris" />
@@ -367,7 +361,204 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 											</div>
 										</div>
 									</div>
-							</div>
+								</div>
+
+
+						</div>
+						<hr />
+
+								<h3>Healers</h3>
+								</br>
+								<div class="row">
+
+							<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-12 col-md-offset-1 col-md-10 col-lg-offset-0 col-lg-12">
+								<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+									<div class="panel priest">
+										<div class="col-xs-3">
+											<img class="portrait priest" src="http://render-eu.worldofwarcraft.com/character/magtheridon/246/117090806-avatar.jpg" alt="Paris" />
+										</div>
+										<div class="col-xs-9">
+											<div class="panelinfo">
+												<img class="spec priest" src="http://wow.zamimg.com/images/wow/icons/large/spell_holy_guardianspirit.jpg" alt="Paris"/>
+												<h3>Anathíel</h3>
+												<ul class="icons">
+													<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Anathíel/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+													<li><a href="https://www.warcraftlogs.com/rankings/character/16691984/10/#metric=hps" class="fa-bar-chart "><span class="label">Logs</span></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+						</div>
+
+						<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+									<div class="panel druid">
+										<div class="col-xs-3">
+											<img class="portrait druid" src="http://render-api-eu.worldofwarcraft.com/static-render/eu/magtheridon/246/136870134-avatar.jpg" alt="Paris" />
+										</div>
+										<div class="col-xs-9">
+											<div class="panelinfo">
+												<img class="spec druid" src="assets\css\images\restodruid.jpg" alt="Paris"/>
+												<h3>Fórgétful</h3>
+												<ul class="icons">
+													<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Fórgétful/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+													<li><a href="https://www.warcraftlogs.com/rankings/character/15130283/latest/#metric=hps" class="fa-bar-chart "><span class="label">Logs</span></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+						</div>
+
+						<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+									<div class="panel shaman">
+										<div class="col-xs-3">
+											<img class="portrait shaman" src="http://render-eu.worldofwarcraft.com/character/magtheridon/20/116770068-avatar.jpg" alt="Paris" />
+										</div>
+										<div class="col-xs-9">
+											<div class="panelinfo">
+												<img class="spec shaman" src="assets\css\images\restoshammy.jpg" alt="Paris"/>
+												<h3>Shammande</h3>
+												<ul class="icons">
+													<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Shammande/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+													<li><a href="https://www.warcraftlogs.com/rankings/character/16989451/latest/#metric=hps" class="fa-bar-chart "><span class="label">Logs</span></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+									<div class="panel paladin">
+										<div class="col-xs-3">
+											<img class="portrait paladin" src="http://render-eu.worldofwarcraft.com/character/magtheridon/237/137251565-avatar.jpg" alt="Paris" />
+										</div>
+										<div class="col-xs-9">
+											<div class="panelinfo">
+												<img class="spec paladin" src="http://wow.zamimg.com/images/wow/icons/large/spell_holy_holybolt.jpg" alt="Paris"/>
+												<h3>Joicy</h3>
+												<ul class="icons">
+													<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Joicy/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+													<li><a href="https://www.warcraftlogs.com/rankings/character/21155805/latest/#metric=hps" class="fa-bar-chart "><span class="label">Logs</span></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+						</div>
+						</div>
+
+						<hr/>
+
+
+
+							<h3>Ranged</h3>
+						</br>
+							<div class="row">
+					<div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-12 col-md-offset-1 col-md-10 col-lg-offset-0 col-lg-12">
+								<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+									<div class="panel mage">
+										<div class="col-xs-3">
+											<img class="portrait mage" src="http://render-eu.worldofwarcraft.com/character/magtheridon/122/138081658-avatar.jpg?alt=wow/static/images/2d/avatar/4-0.jpg" alt="Paris" />
+										</div>
+										<div class="col-xs-9">
+											<div class="panelinfo">
+												<img class="spec mage" src="http://wow.zamimg.com/images/wow/icons/large/spell_frost_frostbolt02.jpg" alt="Paris"/>
+												<h3>Articon</h3>
+												<ul class="icons">
+													<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Articon/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+													<li><a href="https://www.warcraftlogs.com/rankings/character/3626114/latest/" class="fa-bar-chart"><span class="label">Logs</span></a></li>
+													<li><a href="https://www.twitch.tv/mostunfabulous" class="fa-twitch"><span class="label">Twitch</span></a></li>
+													<li><a href="https://www.youtube.com/channel/UCPW3evL1Xsm367pFJ1AHSUw" class="fa-youtube-play"><span class="label">Facebook</span></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+		</div>
+
+		<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+			<div class="panel priest">
+				<div class="col-xs-3">
+					<img class="portrait priest" src="http://render-eu.worldofwarcraft.com/character/magtheridon/39/142188327-avatar.jpg" alt="Paris" />
+				</div>
+				<div class="col-xs-9">
+					<div class="panelinfo">
+						<img class="spec priest" src="http://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowwordpain.jpg" alt="Paris"/>
+						<h3>Allisius</h3>
+						<ul class="icons">
+							<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Allisius/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+							<li><a href="https://www.warcraftlogs.com/rankings/character/20942150/latest" class="fa-bar-chart"><span class="label">Logs</span></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+	</div>
+
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+		<div class="panel priest">
+			<div class="col-xs-3">
+				<img class="portrait priest" src="http://render-eu.worldofwarcraft.com/character/magtheridon/20/117309972-avatar.jpg" alt="Paris" />
+			</div>
+			<div class="col-xs-9">
+				<div class="panelinfo">
+					<img class="spec priest" src="http://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowwordpain.jpg" alt="Paris"/>
+					<h3>Vindicated</h3>
+					<ul class="icons">
+						<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Vindicated/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+						<li><a href="https://www.warcraftlogs.com/rankings/character/12398033/latest/" class="fa-bar-chart"><span class="label">Logs</span></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+</div>
+
+
+
+								<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+									<div class="panel mage">
+										<div class="col-xs-3">
+											<img class="portrait mage" src="http://render-eu.worldofwarcraft.com/character/magtheridon/46/134670638-avatar.jpg" alt="Paris" />
+										</div>
+										<div class="col-xs-9">
+											<div class="panelinfo">
+												<img class="spec mage" src="assets\css\images\firemage.jpg" alt="Paris"/>
+												<h3>Ereos</h3>
+												<ul class="icons">
+													<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Ereos/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+													<li><a href="https://www.warcraftlogs.com/rankings/character/16691986/10/" class="fa-bar-chart "><span class="label">Logs</span></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+									<div class="panel warlock">
+										<div class="col-xs-3">
+											<img class="portrait warlock" src="http://render-eu.worldofwarcraft.com/character/magtheridon/203/117080011-avatar.jpg" alt="Paris" />
+										</div>
+										<div class="col-xs-9">
+											<div class="panelinfo">
+												<img class="spec warlock" src="assets\css\images\afflock.jpg" alt="Paris"/>
+												<h3>Xerphon</h3>
+												<ul class="icons">
+													<li><a href="http://eu.battle.net/wow/en/character/magtheridon/Xerphon/advanced" class="fa-search"><span class="label">Armory</span></a></li>
+													<li><a href="https://www.warcraftlogs.com/rankings/character/20788560/latest" class="fa-bar-chart "><span class="label">Logs</span></a></li>
+													<li><a href="https://www.youtube.com/channel/UCu-He4MM3lVhjkkdc9nLaWw" class="fa-youtube-play"><span class="label">Youtube</span></a></li>
+													<li><a href="https://www.twitch.tv/xerphan" class="fa-twitch"><span class="label">Twitch</span></a></li>
+												</ul>
+											</div>
+										</div>
+
+								</div>
+
+
+				</div>
+			</div>
+
+
+
+
+
+						</div>
 														</section>
 
 										<!-- Three -->
