@@ -111,8 +111,6 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 	<section id="news" class="wrapper style2 spotlights">
 
-
-
 		<section>
 			<a href="trilmy.php" class="image"><img src="images/trilmy.jpg" alt="" data-position="top center" /></a>
 			<div class="content">
